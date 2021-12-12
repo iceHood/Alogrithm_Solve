@@ -6,27 +6,18 @@ using namespace std;
 
 int N;
 int *score = new int[N];
-vector<int> result;
-
-void findPath(int idx, int times, int rst) {
-    if (idx == N - 1) {
-        result.push_back(rst);
-        return;
-    }
-    if (times < 2 && idx < N - 1) {
-        findPath(idx + 1, times + 1, rst + score[idx + 1]);
-    }
-    if (idx < N - 2) {
-        findPath(idx + 2, 1, rst + score[idx + 2]);
-    }
-}
 
 int main() {
     scanf("%d", &N);
     for (int i = 0 ; i < N ; i++) {
         scanf("%d", &score[i]);
     }
-    findPath(-1, 0, 0);
-    int max = *max_element(result.begin(), result.end());
-    cout << max;
+    int DP[300] = {0};
+    DP[0] = score[0];
+    DP[1] = score[0] + score[1];
+    DP[2] = max(score[0] + score[2], score[1] + score[2]);
+    for (int i = 3 ; i < N ; i++) {
+        DP[i] = max(score[i] + DP[i - 2], score[i] + score[i - 1] + DP[i - 3]);
+    }
+    cout << DP[N - 1];
 }
