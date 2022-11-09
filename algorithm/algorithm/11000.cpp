@@ -3,12 +3,29 @@
 #include <vector>
 using namespace std;
 
+priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq2;
+
 int main() {
     int N;
     cin >> N;
-    
-    
-    
+    for (int i = 0 ; i < N ; i++ ) {
+        int a, b;
+        cin >> a >> b;
+        pq.push({a, b});
+    }
+    pq2.push({pq.top().second, pq.top().first});
+    pq.pop();
+    while (!pq.empty()) {
+        if(pq2.top().first > pq.top().first)
+            pq2.push({pq.top().second, pq.top().first});
+        else {
+            pq2.pop();
+            pq2.push({pq.top().second, pq.top().first});
+        }
+        pq.pop();
+    }
+    cout << pq2.size();
     return 0;
 }
 
