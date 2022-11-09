@@ -1,19 +1,12 @@
 #include <iostream>
 #include <queue>
 #include <vector>
-#include <map>
 using namespace std;
-
-map<int, priority_queue<int>> hi;
 
 int main() {
     int N;
     cin >> N;
-    for (int i = 0 ; i < N ; i++) {
-        int temp1, temp2;
-        cin >> temp1 >> temp2;
-        hi[temp2].push(temp1);
-    }
+    
     
     
     return 0;
