@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CEABA1B0292DA948001C56BE /* 10775.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEABA1AF292DA948001C56BE /* 10775.cpp */; };
+		CE097D4C292EED6000AD63AE /* 1922.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CE097D4B292EED6000AD63AE /* 1922.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE097D4B292EED6000AD63AE /* 1922.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1922.cpp; sourceTree = "<group>"; };
 		CE256C4F2928D9E100B91FEC /* 1976.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1976.cpp; sourceTree = "<group>"; };
 		CE256C51292A4B0500B91FEC /* 1043.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1043.cpp; sourceTree = "<group>"; };
 		CE256C53292AFB2900B91FEC /* 4803.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4803.cpp; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 				CE256C57292B5CD700B91FEC /* 13904.cpp */,
 				CEABA1AD292D9CEA001C56BE /* 20040.cpp */,
 				CEABA1AF292DA948001C56BE /* 10775.cpp */,
+				CE097D4B292EED6000AD63AE /* 1922.cpp */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -155,7 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEABA1B0292DA948001C56BE /* 10775.cpp in Sources */,
+				CE097D4C292EED6000AD63AE /* 1922.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
