@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE3A7B832951373A00AFAC45 /* 1916.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CE3A7B822951373A00AFAC45 /* 1916.cpp */; };
+		CEA5AE5029533BB10066DF2F /* 2448.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEA5AE4F29533BB10066DF2F /* 2448.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +40,7 @@
 		CE816C64293379FD00901521 /* 16938.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16938.cpp; sourceTree = "<group>"; };
 		CE816C66293435F500901521 /* 6497.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6497.cpp; sourceTree = "<group>"; };
 		CEA27DB5291F6A440003035F /* 1738.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1738.cpp; sourceTree = "<group>"; };
+		CEA5AE4F29533BB10066DF2F /* 2448.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2448.cpp; sourceTree = "<group>"; };
 		CEABA1AD292D9CEA001C56BE /* 20040.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 20040.cpp; sourceTree = "<group>"; };
 		CEABA1AF292DA948001C56BE /* 10775.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10775.cpp; sourceTree = "<group>"; };
 		CEBA6776291C7BFA00A4DD2A /* 11657.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11657.cpp; sourceTree = "<group>"; };
@@ -124,6 +125,7 @@
 				CEC89EB7293B475300E40D6E /* 15650.cpp */,
 				CE3A7B80294FFA7000AFAC45 /* 2096.cpp */,
 				CE3A7B822951373A00AFAC45 /* 1916.cpp */,
+				CEA5AE4F29533BB10066DF2F /* 2448.cpp */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -159,6 +161,7 @@
 				TargetAttributes = {
 					CED84D00291B34E600ACC536 = {
 						CreatedOnToolsVersion = 14.0.1;
+						LastSwiftMigration = 1400;
 					};
 				};
 			};
@@ -185,7 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE3A7B832951373A00AFAC45 /* 1916.cpp in Sources */,
+				CEA5AE5029533BB10066DF2F /* 2448.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,16 +307,33 @@
 		CED84D09291B34E600ACC536 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "algorithm/algorithm-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
 		CED84D0A291B34E600ACC536 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "algorithm/algorithm-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
