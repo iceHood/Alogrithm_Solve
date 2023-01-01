@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CEF9937529604665004507C7 /* 15654.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEF9937429604665004507C7 /* 15654.cpp */; };
+		CEADCF94296191A70009A3F8 /* 9. Palindrome Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEADCF93296191A70009A3F8 /* 9. Palindrome Number.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +49,7 @@
 		CEA5AE5529570C470066DF2F /* 17144.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17144.cpp; sourceTree = "<group>"; };
 		CEABA1AD292D9CEA001C56BE /* 20040.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 20040.cpp; sourceTree = "<group>"; };
 		CEABA1AF292DA948001C56BE /* 10775.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10775.cpp; sourceTree = "<group>"; };
+		CEADCF93296191A70009A3F8 /* 9. Palindrome Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9. Palindrome Number.cpp"; sourceTree = "<group>"; };
 		CEBA6776291C7BFA00A4DD2A /* 11657.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11657.cpp; sourceTree = "<group>"; };
 		CEBB42152935BE5000BD806A /* 1647.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1647.cpp; sourceTree = "<group>"; };
 		CEBB42182935D2CD00BD806A /* 4386.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4386.cpp; sourceTree = "<group>"; };
@@ -82,9 +83,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CEADCF92296191840009A3F8 /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				CEADCF93296191A70009A3F8 /* 9. Palindrome Number.cpp */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
 		CED84CF8291B34E600ACC536 = {
 			isa = PBXGroup;
 			children = (
+				CEADCF92296191840009A3F8 /* LeetCode */,
 				CED84D03291B34E600ACC536 /* algorithm */,
 				CED84D02291B34E600ACC536 /* Products */,
 			);
@@ -208,7 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEF9937529604665004507C7 /* 15654.cpp in Sources */,
+				CEADCF94296191A70009A3F8 /* 9. Palindrome Number.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
