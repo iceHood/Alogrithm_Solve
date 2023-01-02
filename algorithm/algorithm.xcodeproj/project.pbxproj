@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CEADCF94296191A70009A3F8 /* 9. Palindrome Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEADCF93296191A70009A3F8 /* 9. Palindrome Number.cpp */; };
+		CEE784762962ED460020AA41 /* 15686.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEE784752962ED460020AA41 /* 15686.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -64,6 +64,8 @@
 		CED84D0B291BD05D00ACC536 /* 11000.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 11000.cpp; sourceTree = "<group>"; };
 		CEE0D8FB2923B45C00B1DAF1 /* 13317 - fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "13317 - fail.cpp"; sourceTree = "<group>"; };
 		CEE0D8FD2923D48F00B1DAF1 /* 1956.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1956.cpp; sourceTree = "<group>"; };
+		CEE7847329629EEB0020AA41 /* 10. Regular Expression Matching - fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10. Regular Expression Matching - fail.cpp"; sourceTree = "<group>"; };
+		CEE784752962ED460020AA41 /* 15686.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15686.cpp; sourceTree = "<group>"; };
 		CEF99372295FE405004507C7 /* 12865 - fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "12865 - fail.cpp"; sourceTree = "<group>"; };
 		CEF9937429604665004507C7 /* 15654.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15654.cpp; sourceTree = "<group>"; };
 		CEFE2AD929245FC6009402A1 /* 14938.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14938.cpp; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				CEADCF93296191A70009A3F8 /* 9. Palindrome Number.cpp */,
+				CEE7847329629EEB0020AA41 /* 10. Regular Expression Matching - fail.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				CE8BE02B295E65F800896B38 /* 11779.cpp */,
 				CEF99372295FE405004507C7 /* 12865 - fail.cpp */,
 				CEF9937429604665004507C7 /* 15654.cpp */,
+				CEE784752962ED460020AA41 /* 15686.cpp */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -218,7 +222,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEADCF94296191A70009A3F8 /* 9. Palindrome Number.cpp in Sources */,
+				CEE784762962ED460020AA41 /* 15686.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
