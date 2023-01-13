@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */; };
 		CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */; };
+		CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */; };
 		CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2775A8296FE843009D4486 /* 15. 3Sum.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
 		CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
+		CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. 3Sum Closeset.swift"; sourceTree = "<group>"; };
 		CE2775A8296FE843009D4486 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE3A618C296557E30012280D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */,
 				CE2775A8296FE843009D4486 /* 15. 3Sum.swift */,
 				CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */,
 				CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
+				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
