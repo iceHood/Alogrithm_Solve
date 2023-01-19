@@ -17,6 +17,7 @@
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
 		CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */; };
 		CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */; };
+		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
 		CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,7 @@
 		CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
+		CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */,
 				CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */,
 				CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */,
 				CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */,
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */,
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
