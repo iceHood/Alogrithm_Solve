@@ -12,6 +12,7 @@
 		CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */; };
 		CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2775A8296FE843009D4486 /* 15. 3Sum.swift */; };
 		CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */; };
+		CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
 		CE5E79DE29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */; };
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
@@ -39,6 +40,7 @@
 		CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. 3Sum Closeset.swift"; sourceTree = "<group>"; };
 		CE2775A8296FE843009D4486 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. 4Sum.swift"; sourceTree = "<group>"; };
+		CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE3A618C296557E30012280D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				CED40B3A2967F02200E61567 /* 1138.swift */,
 				CE62835E29670B4B00BC03B2 /* 1063.swift */,
 				CE62835C2966EE4700BC03B2 /* 12851.swift */,
+				CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */,
 			);
 			path = Algorithm_Swift;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
+				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
 				CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */,
