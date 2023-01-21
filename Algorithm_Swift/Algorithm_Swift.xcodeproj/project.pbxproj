@@ -18,6 +18,7 @@
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
 		CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */; };
 		CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */; };
+		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
 		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
 		CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */; };
 /* End PBXBuildFile section */
@@ -49,6 +50,7 @@
 		CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
+		CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */,
 				CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */,
 				CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */,
 				CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */,
@@ -166,6 +169,7 @@
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
+				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
 				CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */,
 				CE3A618D296557E30012280D /* main.swift in Sources */,
