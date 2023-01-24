@@ -18,6 +18,7 @@
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
 		CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */; };
 		CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */; };
+		CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */; };
 		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
 		CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */; };
 		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
@@ -50,6 +51,7 @@
 		CE62835E29670B4B00BC03B2 /* 1063.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
 		CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
+		CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "23. Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */,
 				CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */,
 				CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */,
 				CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */,
@@ -172,6 +175,7 @@
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
+				CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */,
 				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
