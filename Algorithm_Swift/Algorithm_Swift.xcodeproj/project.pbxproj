@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */; };
 		CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */; };
+		CE06A90129815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */; };
 		CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */; };
 		CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2775A8296FE843009D4486 /* 15. 3Sum.swift */; };
 		CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
 		CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
+		CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25. Reverse Nodes in k-Group.swift"; sourceTree = "<group>"; };
 		CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. 3Sum Closeset.swift"; sourceTree = "<group>"; };
 		CE2775A8296FE843009D4486 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. 4Sum.swift"; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */,
 				CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */,
 				CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */,
 				CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */,
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE06A90129815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift in Sources */,
 				CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */,
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
