@@ -27,6 +27,7 @@
 		CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */; };
 		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
 		CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */; };
+		CEFA84EA2985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "23. Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
 		CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
+		CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */,
 				CEB412162983F02500AEB637 /* 27. Remove Element.swift */,
 				CEB412142982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift */,
 				CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */,
@@ -200,6 +203,7 @@
 				CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */,
 				CEB412152982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
 				CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */,
+				CEFA84EA2985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift in Sources */,
 				CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
