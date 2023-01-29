@@ -25,6 +25,8 @@
 		CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */; };
 		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
 		CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */; };
+		CED6821B29861C6800E82059 /* 29FAIL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821A29861C6800E82059 /* 29FAIL.swift */; };
+		CED6821D2986410900E82059 /* 30. Substring with Concatenation of All Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */; };
 		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
 		CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */; };
 		CEFA84EA2985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */; };
@@ -64,6 +66,8 @@
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "23. Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
+		CED6821A29861C6800E82059 /* 29FAIL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 29FAIL.swift; sourceTree = "<group>"; };
+		CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Substring with Concatenation of All Words.swift"; sourceTree = "<group>"; };
 		CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String .swift"; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */,
+				CED6821A29861C6800E82059 /* 29FAIL.swift */,
 				CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */,
 				CEB412162983F02500AEB637 /* 27. Remove Element.swift */,
 				CEB412142982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift */,
@@ -194,8 +200,10 @@
 				CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CE0BD8DB29825A2400B0AA9E /* enum에 관한 고찰.swift in Sources */,
 				CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */,
+				CED6821D2986410900E82059 /* 30. Substring with Concatenation of All Words.swift in Sources */,
 				CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */,
 				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
+				CED6821B29861C6800E82059 /* 29FAIL.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
 				CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */,
 				CE3A618D296557E30012280D /* main.swift in Sources */,
