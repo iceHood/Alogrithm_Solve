@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE050AA0298A4086006A5507 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE050A9F298A4086006A5507 /* 34. Find First and Last Position of Element in Sorted Array.swift */; };
 		CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */; };
 		CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */; };
 		CE06A90129815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE050A9F298A4086006A5507 /* 34. Find First and Last Position of Element in Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Find First and Last Position of Element in Sorted Array.swift"; sourceTree = "<group>"; };
 		CE051BA5296C28380048DA3F /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
 		CE051BA7296D7D7D0048DA3F /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
 		CE06A90029815ECF0070F6FC /* 25. Reverse Nodes in k-Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25. Reverse Nodes in k-Group.swift"; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE050A9F298A4086006A5507 /* 34. Find First and Last Position of Element in Sorted Array.swift */,
 				CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */,
 				CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */,
 				CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */,
@@ -214,6 +217,7 @@
 				CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */,
 				CE3A618D296557E30012280D /* main.swift in Sources */,
 				CE5E79DE29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
+				CE050AA0298A4086006A5507 /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */,
 				CEB412152982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
 				CE31A8D22989628C0038AF20 /* 35. Search Insert Position.swift in Sources */,
