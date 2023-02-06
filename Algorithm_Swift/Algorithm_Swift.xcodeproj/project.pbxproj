@@ -27,6 +27,7 @@
 		CE7A3798298D425D0081D6D1 /* 37. Sudoku Solver .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7A3797298D425D0081D6D1 /* 37. Sudoku Solver .swift */; };
 		CEB412152982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB412142982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift */; };
 		CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB412162983F02500AEB637 /* 27. Remove Element.swift */; };
+		CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC3F61729910BE0009ADB54 /* 39. Combination Sum.swift */; };
 		CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */; };
 		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
 		CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */; };
@@ -73,6 +74,7 @@
 		CE7A3797298D425D0081D6D1 /* 37. Sudoku Solver .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37. Sudoku Solver .swift"; sourceTree = "<group>"; };
 		CEB412142982A6E700AEB637 /* 26. Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
 		CEB412162983F02500AEB637 /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
+		CEC3F61729910BE0009ADB54 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEC3F61729910BE0009ADB54 /* 39. Combination Sum.swift */,
 				CE0CC844298DF35B009D3F83 /* 38. Count and Say.swift */,
 				CE7A3797298D425D0081D6D1 /* 37. Sudoku Solver .swift */,
 				CEE87D2E298BEB820022C725 /* 36. Valid Sudoku.swift */,
@@ -214,6 +217,7 @@
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
+				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
 				CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CE0BD8DB29825A2400B0AA9E /* enum에 관한 고찰.swift in Sources */,
