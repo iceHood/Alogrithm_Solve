@@ -14,6 +14,7 @@
 		CE0BD8DB29825A2400B0AA9E /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0BD8DA29825A2400B0AA9E /* enum에 관한 고찰.swift */; };
 		CE0CC845298DF35B009D3F83 /* 38. Count and Say.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0CC844298DF35B009D3F83 /* 38. Count and Say.swift */; };
 		CE0EC6502997B2BE008AE42F /* 44. Wildcard Matching.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0EC64F2997B2BE008AE42F /* 44. Wildcard Matching.swift */; };
+		CE0EC6582998B97E008AE42F /* 45. Jump Game II .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0EC6572998B97E008AE42F /* 45. Jump Game II .swift */; };
 		CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */; };
 		CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE18995E2993C75C00C61879 /* 41. First Missing Positive.swift */; };
 		CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2775A8296FE843009D4486 /* 15. 3Sum.swift */; };
@@ -64,6 +65,7 @@
 		CE0BD8DA29825A2400B0AA9E /* enum에 관한 고찰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "enum에 관한 고찰.swift"; sourceTree = "<group>"; };
 		CE0CC844298DF35B009D3F83 /* 38. Count and Say.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "38. Count and Say.swift"; sourceTree = "<group>"; };
 		CE0EC64F2997B2BE008AE42F /* 44. Wildcard Matching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "44. Wildcard Matching.swift"; sourceTree = "<group>"; };
+		CE0EC6572998B97E008AE42F /* 45. Jump Game II .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "45. Jump Game II .swift"; sourceTree = "<group>"; };
 		CE0F373F29719721005B7339 /* 16. 3Sum Closeset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. 3Sum Closeset.swift"; sourceTree = "<group>"; };
 		CE18995E2993C75C00C61879 /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
 		CE2775A8296FE843009D4486 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE0EC6572998B97E008AE42F /* 45. Jump Game II .swift */,
 				CE0EC64F2997B2BE008AE42F /* 44. Wildcard Matching.swift */,
 				CE774D5D29962AEC00AB40C1 /* 43. Multiply Strings .swift */,
 				CE5BC8B32994D2C10044C682 /* 42. Trapping Rain Water .swift */,
@@ -231,6 +234,7 @@
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
+				CE0EC6582998B97E008AE42F /* 45. Jump Game II .swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */,
 				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
