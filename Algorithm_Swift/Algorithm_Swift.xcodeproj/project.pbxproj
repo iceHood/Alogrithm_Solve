@@ -34,6 +34,7 @@
 		CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB412162983F02500AEB637 /* 27. Remove Element.swift */; };
 		CEB63B5B299A5C3300FAB496 /* 46. Permutations .swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB63B5A299A5C3300FAB496 /* 46. Permutations .swift */; };
 		CEB63B5D299B0A3400FAB496 /* 47. Permutations II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB63B5C299B0A3400FAB496 /* 47. Permutations II.swift */; };
+		CEBF163A299D107500D7411D /* 48. Rotate Image .swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBF1639299D107500D7411D /* 48. Rotate Image .swift */; };
 		CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC3F61729910BE0009ADB54 /* 39. Combination Sum.swift */; };
 		CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */; };
 		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
@@ -89,6 +90,7 @@
 		CEB412162983F02500AEB637 /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		CEB63B5A299A5C3300FAB496 /* 46. Permutations .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations .swift"; sourceTree = "<group>"; };
 		CEB63B5C299B0A3400FAB496 /* 47. Permutations II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "47. Permutations II.swift"; sourceTree = "<group>"; };
+		CEBF1639299D107500D7411D /* 48. Rotate Image .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. Rotate Image .swift"; sourceTree = "<group>"; };
 		CEC3F61729910BE0009ADB54 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		CEC7A859297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
 		CED40B3A2967F02200E61567 /* 1138.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEBF1639299D107500D7411D /* 48. Rotate Image .swift */,
 				CEB63B5C299B0A3400FAB496 /* 47. Permutations II.swift */,
 				CEB63B5A299A5C3300FAB496 /* 46. Permutations .swift */,
 				CE0EC6572998B97E008AE42F /* 45. Jump Game II .swift */,
@@ -251,6 +254,7 @@
 				CEDA1D582992804A00DDA85F /* 40. Combination Sum II.swift in Sources */,
 				CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */,
 				CED6821D2986410900E82059 /* 30. Substring with Concatenation of All Words.swift in Sources */,
+				CEBF163A299D107500D7411D /* 48. Rotate Image .swift in Sources */,
 				CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */,
 				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
 				CEB63B5D299B0A3400FAB496 /* 47. Permutations II.swift in Sources */,
