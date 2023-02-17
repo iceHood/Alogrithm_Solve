@@ -40,6 +40,7 @@
 		CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */; };
 		CED45ACB297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */; };
 		CED55656299E5783004CC377 /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED55655299E5783004CC377 /* 49. Group Anagrams.swift */; };
+		CED55658299FB1B7004CC377 /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */; };
 		CED6821B29861C6800E82059 /* 29FAIL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821A29861C6800E82059 /* 29FAIL.swift */; };
 		CED6821D2986410900E82059 /* 30. Substring with Concatenation of All Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */; };
 		CEDA1D582992804A00DDA85F /* 40. Combination Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDA1D572992804A00DDA85F /* 40. Combination Sum II.swift */; };
@@ -98,6 +99,7 @@
 		CED45AC8297C04EC0056AAF5 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		CED45ACA297E9ED40056AAF5 /* 23. Merge k Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "23. Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
 		CED55655299E5783004CC377 /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
+		CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CED6821A29861C6800E82059 /* 29FAIL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 29FAIL.swift; sourceTree = "<group>"; };
 		CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Substring with Concatenation of All Words.swift"; sourceTree = "<group>"; };
 		CEDA1D572992804A00DDA85F /* 40. Combination Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40. Combination Sum II.swift"; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */,
 				CED55655299E5783004CC377 /* 49. Group Anagrams.swift */,
 				CEBF1639299D107500D7411D /* 48. Rotate Image .swift */,
 				CEB63B5C299B0A3400FAB496 /* 47. Permutations II.swift */,
@@ -247,6 +250,7 @@
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CED55656299E5783004CC377 /* 49. Group Anagrams.swift in Sources */,
+				CED55658299FB1B7004CC377 /* 50. Pow(x, n) .swift in Sources */,
 				CE0EC6582998B97E008AE42F /* 45. Jump Game II .swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */,
