@@ -42,6 +42,7 @@
 		CED55656299E5783004CC377 /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED55655299E5783004CC377 /* 49. Group Anagrams.swift */; };
 		CED55658299FB1B7004CC377 /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */; };
 		CED5565A29A09DC3004CC377 /* 53. Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED5565929A09DC3004CC377 /* 53. Maximum Subarray.swift */; };
+		CED5565C29A1F756004CC377 /* 54. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED5565B29A1F756004CC377 /* 54. Spiral Matrix.swift */; };
 		CED6821B29861C6800E82059 /* 29FAIL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821A29861C6800E82059 /* 29FAIL.swift */; };
 		CED6821D2986410900E82059 /* 30. Substring with Concatenation of All Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */; };
 		CEDA1D582992804A00DDA85F /* 40. Combination Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDA1D572992804A00DDA85F /* 40. Combination Sum II.swift */; };
@@ -102,6 +103,7 @@
 		CED55655299E5783004CC377 /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
 		CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CED5565929A09DC3004CC377 /* 53. Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "53. Maximum Subarray.swift"; sourceTree = "<group>"; };
+		CED5565B29A1F756004CC377 /* 54. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix.swift"; sourceTree = "<group>"; };
 		CED6821A29861C6800E82059 /* 29FAIL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 29FAIL.swift; sourceTree = "<group>"; };
 		CED6821C2986410900E82059 /* 30. Substring with Concatenation of All Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Substring with Concatenation of All Words.swift"; sourceTree = "<group>"; };
 		CEDA1D572992804A00DDA85F /* 40. Combination Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40. Combination Sum II.swift"; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CED5565B29A1F756004CC377 /* 54. Spiral Matrix.swift */,
 				CED5565929A09DC3004CC377 /* 53. Maximum Subarray.swift */,
 				CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */,
 				CED55655299E5783004CC377 /* 49. Group Anagrams.swift */,
@@ -270,6 +273,7 @@
 				CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */,
 				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
 				CEB63B5D299B0A3400FAB496 /* 47. Permutations II.swift in Sources */,
+				CED5565C29A1F756004CC377 /* 54. Spiral Matrix.swift in Sources */,
 				CE5BC8B42994D2C10044C682 /* 42. Trapping Rain Water .swift in Sources */,
 				CED6821B29861C6800E82059 /* 29FAIL.swift in Sources */,
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
