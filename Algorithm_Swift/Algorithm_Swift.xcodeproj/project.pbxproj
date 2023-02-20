@@ -49,6 +49,7 @@
 		CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */; };
 		CEE87D2F298BEB820022C725 /* 36. Valid Sudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE87D2E298BEB820022C725 /* 36. Valid Sudoku.swift */; };
 		CEECBA6D2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */; };
+		CEF56A4329A38A1000A12A9D /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF56A4229A38A1000A12A9D /* 55. Jump Game.swift */; };
 		CEFA84EA2985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */; };
 /* End PBXBuildFile section */
 
@@ -110,6 +111,7 @@
 		CEE37B4A29797CD900FAC1A5 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		CEE87D2E298BEB820022C725 /* 36. Valid Sudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. Valid Sudoku.swift"; sourceTree = "<group>"; };
 		CEECBA6C2977FD9500822EEA /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
+		CEF56A4229A38A1000A12A9D /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		CEFA84E92985689600109690 /* 28. Find the Index of the First Occurrence in a String .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -144,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CEF56A4229A38A1000A12A9D /* 55. Jump Game.swift */,
 				CED5565B29A1F756004CC377 /* 54. Spiral Matrix.swift */,
 				CED5565929A09DC3004CC377 /* 53. Maximum Subarray.swift */,
 				CED55657299FB1B7004CC377 /* 50. Pow(x, n) .swift */,
@@ -254,6 +257,7 @@
 				CEE37B4B29797CD900FAC1A5 /* 20. Valid Parentheses.swift in Sources */,
 				CE051BA6296C28380048DA3F /* 11. Container With Most Water.swift in Sources */,
 				CE0F374029719721005B7339 /* 16. 3Sum Closeset.swift in Sources */,
+				CEF56A4329A38A1000A12A9D /* 55. Jump Game.swift in Sources */,
 				CE051BA8296D7D7D0048DA3F /* 13. Roman to Integer.swift in Sources */,
 				CED55656299E5783004CC377 /* 49. Group Anagrams.swift in Sources */,
 				CED55658299FB1B7004CC377 /* 50. Pow(x, n) .swift in Sources */,
