@@ -20,6 +20,7 @@
 		CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2775A8296FE843009D4486 /* 15. 3Sum.swift */; };
 		CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */; };
 		CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */; };
+		CE2C33F429A4E22F0065424E /* 56. Merge Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */; };
 		CE31A8A72987E5AD0038AF20 /* 31. Next Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */; };
 		CE31A8D22989628C0038AF20 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
@@ -79,6 +80,7 @@
 		CE2775A8296FE843009D4486 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		CE28C8D82976BE3D000FB131 /* 18. 4Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. 4Sum.swift"; sourceTree = "<group>"; };
 		CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56. Merge Intervals.swift"; sourceTree = "<group>"; };
 		CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Next Permutation.swift"; sourceTree = "<group>"; };
 		CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -146,6 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */,
 				CEF56A4229A38A1000A12A9D /* 55. Jump Game.swift */,
 				CED5565B29A1F756004CC377 /* 54. Spiral Matrix.swift */,
 				CED5565929A09DC3004CC377 /* 53. Maximum Subarray.swift */,
@@ -263,6 +266,7 @@
 				CED55658299FB1B7004CC377 /* 50. Pow(x, n) .swift in Sources */,
 				CE0EC6582998B97E008AE42F /* 45. Jump Game II .swift in Sources */,
 				CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */,
+				CE2C33F429A4E22F0065424E /* 56. Merge Intervals.swift in Sources */,
 				CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */,
 				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
