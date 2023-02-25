@@ -27,6 +27,8 @@
 		CE5BC8B42994D2C10044C682 /* 42. Trapping Rain Water .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5BC8B32994D2C10044C682 /* 42. Trapping Rain Water .swift */; };
 		CE5E79DE29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */; };
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
+		CE62D64129A9E0F900D5525B /* 59. Spiral Matrix II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */; };
+		CE62D64329A9E13800D5525B /* 58. Length of Last Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */; };
 		CE774D5E29962AEC00AB40C1 /* 43. Multiply Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE774D5D29962AEC00AB40C1 /* 43. Multiply Strings .swift */; };
 		CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */; };
 		CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */; };
@@ -90,6 +92,8 @@
 		CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
 		CE62835C2966EE4700BC03B2 /* 12851.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
 		CE62835E29670B4B00BC03B2 /* 1063.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
+		CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "59. Spiral Matrix II.swift"; sourceTree = "<group>"; };
+		CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "58. Length of Last Word.swift"; sourceTree = "<group>"; };
 		CE774D5D29962AEC00AB40C1 /* 43. Multiply Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43. Multiply Strings .swift"; sourceTree = "<group>"; };
 		CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
@@ -150,6 +154,8 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */,
+				CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */,
 				CEF8AF7B29A7AB9800A42F93 /* 57. Insert Interval.swift */,
 				CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */,
 				CEF56A4229A38A1000A12A9D /* 55. Jump Game.swift */,
@@ -284,6 +290,8 @@
 				CEBF163A299D107500D7411D /* 48. Rotate Image .swift in Sources */,
 				CEB412172983F02500AEB637 /* 27. Remove Element.swift in Sources */,
 				CED45AC9297C04EC0056AAF5 /* 22. Generate Parentheses.swift in Sources */,
+				CE62D64129A9E0F900D5525B /* 59. Spiral Matrix II.swift in Sources */,
+				CE62D64329A9E13800D5525B /* 58. Length of Last Word.swift in Sources */,
 				CEB63B5D299B0A3400FAB496 /* 47. Permutations II.swift in Sources */,
 				CED5565C29A1F756004CC377 /* 54. Spiral Matrix.swift in Sources */,
 				CE5BC8B42994D2C10044C682 /* 42. Trapping Rain Water .swift in Sources */,
