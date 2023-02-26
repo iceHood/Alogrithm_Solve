@@ -29,6 +29,7 @@
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
 		CE62D64129A9E0F900D5525B /* 59. Spiral Matrix II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */; };
 		CE62D64329A9E13800D5525B /* 58. Length of Last Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */; };
+		CE62D64529AB05AE00D5525B /* 60. Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62D64429AB05AE00D5525B /* 60. Permutation Sequence.swift */; };
 		CE774D5E29962AEC00AB40C1 /* 43. Multiply Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE774D5D29962AEC00AB40C1 /* 43. Multiply Strings .swift */; };
 		CE784B72296E7E48005F016F /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */; };
 		CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */; };
@@ -94,6 +95,7 @@
 		CE62835E29670B4B00BC03B2 /* 1063.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
 		CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "59. Spiral Matrix II.swift"; sourceTree = "<group>"; };
 		CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "58. Length of Last Word.swift"; sourceTree = "<group>"; };
+		CE62D64429AB05AE00D5525B /* 60. Permutation Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60. Permutation Sequence.swift"; sourceTree = "<group>"; };
 		CE774D5D29962AEC00AB40C1 /* 43. Multiply Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43. Multiply Strings .swift"; sourceTree = "<group>"; };
 		CE784B71296E7E48005F016F /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
 		CE784B73296E8605005F016F /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE62D64429AB05AE00D5525B /* 60. Permutation Sequence.swift */,
 				CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */,
 				CE62D64229A9E13800D5525B /* 58. Length of Last Word.swift */,
 				CEF8AF7B29A7AB9800A42F93 /* 57. Insert Interval.swift */,
@@ -280,6 +283,7 @@
 				CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */,
 				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
+				CE62D64529AB05AE00D5525B /* 60. Permutation Sequence.swift in Sources */,
 				CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CE0BD8DB29825A2400B0AA9E /* enum에 관한 고찰.swift in Sources */,
 				CE7A3798298D425D0081D6D1 /* 37. Sudoku Solver .swift in Sources */,
