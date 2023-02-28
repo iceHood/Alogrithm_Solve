@@ -22,6 +22,7 @@
 		CE2C2510297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */; };
 		CE2C33F429A4E22F0065424E /* 56. Merge Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */; };
 		CE2F678129ACE05A0046D9AD /* 61. Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */; };
+		CE2F678329AE382A0046D9AD /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */; };
 		CE31A8A72987E5AD0038AF20 /* 31. Next Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */; };
 		CE31A8D22989628C0038AF20 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
@@ -87,6 +88,7 @@
 		CE2C250F297AAC74009022C1 /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56. Merge Intervals.swift"; sourceTree = "<group>"; };
 		CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "61. Rotate List.swift"; sourceTree = "<group>"; };
+		CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Next Permutation.swift"; sourceTree = "<group>"; };
 		CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */,
 				CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */,
 				CE62D64429AB05AE00D5525B /* 60. Permutation Sequence.swift */,
 				CE62D64029A9E0F900D5525B /* 59. Spiral Matrix II.swift */,
@@ -307,6 +310,7 @@
 				CE2775A9296FE843009D4486 /* 15. 3Sum.swift in Sources */,
 				CE28C8D92976BE3D000FB131 /* 18. 4Sum.swift in Sources */,
 				CE3A618D296557E30012280D /* main.swift in Sources */,
+				CE2F678329AE382A0046D9AD /* 62. Unique Paths.swift in Sources */,
 				CE5E79DE29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 				CEB63B5B299A5C3300FAB496 /* 46. Permutations .swift in Sources */,
 				CE774D5E29962AEC00AB40C1 /* 43. Multiply Strings .swift in Sources */,
