@@ -23,6 +23,7 @@
 		CE2C33F429A4E22F0065424E /* 56. Merge Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */; };
 		CE2F678129ACE05A0046D9AD /* 61. Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */; };
 		CE2F678329AE382A0046D9AD /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */; };
+		CE31572829B1E2320013CDB9 /* 64. Minimum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31572729B1E2320013CDB9 /* 64. Minimum Path Sum.swift */; };
 		CE31A8A72987E5AD0038AF20 /* 31. Next Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */; };
 		CE31A8D22989628C0038AF20 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
@@ -90,6 +91,7 @@
 		CE2C33F329A4E22F0065424E /* 56. Merge Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56. Merge Intervals.swift"; sourceTree = "<group>"; };
 		CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "61. Rotate List.swift"; sourceTree = "<group>"; };
 		CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
+		CE31572729B1E2320013CDB9 /* 64. Minimum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "64. Minimum Path Sum.swift"; sourceTree = "<group>"; };
 		CE31A8A62987E5AD0038AF20 /* 31. Next Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Next Permutation.swift"; sourceTree = "<group>"; };
 		CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -162,6 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE31572729B1E2320013CDB9 /* 64. Minimum Path Sum.swift */,
 				CE9BFD2329B028AE00750F4F /* 63. Unique Paths II.swift */,
 				CE2F678229AE382A0046D9AD /* 62. Unique Paths.swift */,
 				CE2F678029ACE05A0046D9AD /* 61. Rotate List.swift */,
@@ -292,6 +295,7 @@
 				CE2C33F429A4E22F0065424E /* 56. Merge Intervals.swift in Sources */,
 				CE18995F2993C75C00C61879 /* 41. First Missing Positive.swift in Sources */,
 				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
+				CE31572829B1E2320013CDB9 /* 64. Minimum Path Sum.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
 				CE9BFD2429B028AE00750F4F /* 63. Unique Paths II.swift in Sources */,
 				CE62D64529AB05AE00D5525B /* 60. Permutation Sequence.swift in Sources */,
