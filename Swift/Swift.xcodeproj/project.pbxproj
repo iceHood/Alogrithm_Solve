@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2D29B4C98E00D40AAB /* 12851.swift */; };
+		CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2E29B4C98E00D40AAB /* 1138.swift */; };
+		CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2F29B4C98E00D40AAB /* 1063.swift */; };
+		CE4BCF6A29B4C98E00D40AAB /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3129B4C98E00D40AAB /* 62. Unique Paths.swift */; };
+		CE4BCF6B29B4C98E00D40AAB /* 43. Multiply Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3229B4C98E00D40AAB /* 43. Multiply Strings .swift */; };
+		CE4BCF6C29B4C98E00D40AAB /* 63. Unique Paths II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3329B4C98E00D40AAB /* 63. Unique Paths II.swift */; };
+		CE4BCF6D29B4C98E00D40AAB /* 31. Next Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3429B4C98E00D40AAB /* 31. Next Permutation.swift */; };
+		CE4BCF6E29B4C98E00D40AAB /* 48. Rotate Image .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3529B4C98E00D40AAB /* 48. Rotate Image .swift */; };
+		CE4BCF6F29B4C98E00D40AAB /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3629B4C98E00D40AAB /* 14. Longest Common Prefix.swift */; };
+		CE4BCF7029B4C98E00D40AAB /* 44. Wildcard Matching.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3729B4C98E00D40AAB /* 44. Wildcard Matching.swift */; };
+		CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3829B4C98E00D40AAB /* 64. Minimum Path Sum.swift */; };
+		CE4BCF7229B4C98E00D40AAB /* 47. Permutations II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3929B4C98E00D40AAB /* 47. Permutations II.swift */; };
+		CE4BCF7329B4C98E00D40AAB /* 42. Trapping Rain Water .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3A29B4C98E00D40AAB /* 42. Trapping Rain Water .swift */; };
+		CE4BCF7429B4C98E00D40AAB /* 40. Combination Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3B29B4C98E00D40AAB /* 40. Combination Sum II.swift */; };
+		CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3C29B4C98E00D40AAB /* 39. Combination Sum.swift */; };
+		CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3D29B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift */; };
+		CE4BCF7729B4C98E00D40AAB /* 53. Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3E29B4C98E00D40AAB /* 53. Maximum Subarray.swift */; };
+		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
+		CE4BCF7929B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4029B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift */; };
+		CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4129B4C98E00D40AAB /* 56. Merge Intervals.swift */; };
+		CE4BCF7B29B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4229B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift */; };
+		CE4BCF7C29B4C98E00D40AAB /* 61. Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4329B4C98E00D40AAB /* 61. Rotate List.swift */; };
+		CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4429B4C98E00D40AAB /* 45. Jump Game II .swift */; };
+		CE4BCF7E29B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4529B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift */; };
+		CE4BCF7F29B4C98E00D40AAB /* 18. 4Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4629B4C98E00D40AAB /* 18. 4Sum.swift */; };
+		CE4BCF8029B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4729B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift */; };
+		CE4BCF8129B4C98E00D40AAB /* 65. Valid Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4829B4C98E00D40AAB /* 65. Valid Number.swift */; };
+		CE4BCF8229B4C98E00D40AAB /* 57. Insert Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4929B4C98E00D40AAB /* 57. Insert Interval.swift */; };
+		CE4BCF8329B4C98E00D40AAB /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4A29B4C98E00D40AAB /* 27. Remove Element.swift */; };
+		CE4BCF8429B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4B29B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift */; };
+		CE4BCF8529B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4C29B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift */; };
+		CE4BCF8629B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4D29B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift */; };
+		CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4E29B4C98E00D40AAB /* 55. Jump Game.swift */; };
+		CE4BCF8829B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF4F29B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift */; };
+		CE4BCF8929B4C98E00D40AAB /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5029B4C98E00D40AAB /* 13. Roman to Integer.swift */; };
+		CE4BCF8A29B4C98E00D40AAB /* 60. Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5129B4C98E00D40AAB /* 60. Permutation Sequence.swift */; };
+		CE4BCF8B29B4C98E00D40AAB /* 59. Spiral Matrix II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5229B4C98E00D40AAB /* 59. Spiral Matrix II.swift */; };
+		CE4BCF8C29B4C98E00D40AAB /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5329B4C98E00D40AAB /* 11. Container With Most Water.swift */; };
+		CE4BCF8D29B4C98E00D40AAB /* 36. Valid Sudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5429B4C98E00D40AAB /* 36. Valid Sudoku.swift */; };
+		CE4BCF8E29B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5529B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift */; };
+		CE4BCF8F29B4C98E00D40AAB /* 37. Sudoku Solver .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5629B4C98E00D40AAB /* 37. Sudoku Solver .swift */; };
+		CE4BCF9029B4C98E00D40AAB /* 58. Length of Last Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5729B4C98E00D40AAB /* 58. Length of Last Word.swift */; };
+		CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5829B4C98E00D40AAB /* 54. Spiral Matrix.swift */; };
+		CE4BCF9229B4C98E00D40AAB /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5929B4C98E00D40AAB /* 15. 3Sum.swift */; };
+		CE4BCF9329B4C98E00D40AAB /* 38. Count and Say.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5A29B4C98E00D40AAB /* 38. Count and Say.swift */; };
+		CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5B29B4C98E00D40AAB /* 22. Generate Parentheses.swift */; };
+		CE4BCF9629B4C98E00D40AAB /* 12. Integer to Roman.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5D29B4C98E00D40AAB /* 12. Integer to Roman.swift */; };
+		CE4BCF9729B4C98E00D40AAB /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5E29B4C98E00D40AAB /* 41. First Missing Positive.swift */; };
+		CE4BCF9829B4C98E00D40AAB /* 46. Permutations .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF5F29B4C98E00D40AAB /* 46. Permutations .swift */; };
+		CE4BCF9929B4C98E00D40AAB /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6029B4C98E00D40AAB /* 35. Search Insert Position.swift */; };
+		CE4BCF9A29B4C98E00D40AAB /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6129B4C98E00D40AAB /* 20. Valid Parentheses.swift */; };
+		CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6229B4C98E00D40AAB /* 66. Plus One.swift */; };
+		CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6329B4C98E00D40AAB /* 29FAIL.swift */; };
+		CE4BCF9D29B4C98E00D40AAB /* 16. 3Sum Closeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6429B4C98E00D40AAB /* 16. 3Sum Closeset.swift */; };
+		CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6529B4C98E00D40AAB /* 49. Group Anagrams.swift */; };
+		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
+		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		CE3A6187296557E30012280D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE4BCF2D29B4C98E00D40AAB /* 12851.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
+		CE4BCF2E29B4C98E00D40AAB /* 1138.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
+		CE4BCF2F29B4C98E00D40AAB /* 1063.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
+		CE4BCF3129B4C98E00D40AAB /* 62. Unique Paths.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
+		CE4BCF3229B4C98E00D40AAB /* 43. Multiply Strings .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "43. Multiply Strings .swift"; sourceTree = "<group>"; };
+		CE4BCF3329B4C98E00D40AAB /* 63. Unique Paths II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "63. Unique Paths II.swift"; sourceTree = "<group>"; };
+		CE4BCF3429B4C98E00D40AAB /* 31. Next Permutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "31. Next Permutation.swift"; sourceTree = "<group>"; };
+		CE4BCF3529B4C98E00D40AAB /* 48. Rotate Image .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "48. Rotate Image .swift"; sourceTree = "<group>"; };
+		CE4BCF3629B4C98E00D40AAB /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
+		CE4BCF3729B4C98E00D40AAB /* 44. Wildcard Matching.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "44. Wildcard Matching.swift"; sourceTree = "<group>"; };
+		CE4BCF3829B4C98E00D40AAB /* 64. Minimum Path Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "64. Minimum Path Sum.swift"; sourceTree = "<group>"; };
+		CE4BCF3929B4C98E00D40AAB /* 47. Permutations II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "47. Permutations II.swift"; sourceTree = "<group>"; };
+		CE4BCF3A29B4C98E00D40AAB /* 42. Trapping Rain Water .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water .swift"; sourceTree = "<group>"; };
+		CE4BCF3B29B4C98E00D40AAB /* 40. Combination Sum II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "40. Combination Sum II.swift"; sourceTree = "<group>"; };
+		CE4BCF3C29B4C98E00D40AAB /* 39. Combination Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
+		CE4BCF3D29B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "23. Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
+		CE4BCF3E29B4C98E00D40AAB /* 53. Maximum Subarray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "53. Maximum Subarray.swift"; sourceTree = "<group>"; };
+		CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "enum에 관한 고찰.swift"; sourceTree = "<group>"; };
+		CE4BCF4029B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
+		CE4BCF4129B4C98E00D40AAB /* 56. Merge Intervals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "56. Merge Intervals.swift"; sourceTree = "<group>"; };
+		CE4BCF4229B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
+		CE4BCF4329B4C98E00D40AAB /* 61. Rotate List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "61. Rotate List.swift"; sourceTree = "<group>"; };
+		CE4BCF4429B4C98E00D40AAB /* 45. Jump Game II .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "45. Jump Game II .swift"; sourceTree = "<group>"; };
+		CE4BCF4529B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "26. Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
+		CE4BCF4629B4C98E00D40AAB /* 18. 4Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "18. 4Sum.swift"; sourceTree = "<group>"; };
+		CE4BCF4729B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "34. Find First and Last Position of Element in Sorted Array.swift"; sourceTree = "<group>"; };
+		CE4BCF4829B4C98E00D40AAB /* 65. Valid Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "65. Valid Number.swift"; sourceTree = "<group>"; };
+		CE4BCF4929B4C98E00D40AAB /* 57. Insert Interval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "57. Insert Interval.swift"; sourceTree = "<group>"; };
+		CE4BCF4A29B4C98E00D40AAB /* 27. Remove Element.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
+		CE4BCF4B29B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
+		CE4BCF4C29B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "30. Substring with Concatenation of All Words.swift"; sourceTree = "<group>"; };
+		CE4BCF4D29B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "25. Reverse Nodes in k-Group.swift"; sourceTree = "<group>"; };
+		CE4BCF4E29B4C98E00D40AAB /* 55. Jump Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
+		CE4BCF4F29B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String .swift"; sourceTree = "<group>"; };
+		CE4BCF5029B4C98E00D40AAB /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
+		CE4BCF5129B4C98E00D40AAB /* 60. Permutation Sequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "60. Permutation Sequence.swift"; sourceTree = "<group>"; };
+		CE4BCF5229B4C98E00D40AAB /* 59. Spiral Matrix II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "59. Spiral Matrix II.swift"; sourceTree = "<group>"; };
+		CE4BCF5329B4C98E00D40AAB /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
+		CE4BCF5429B4C98E00D40AAB /* 36. Valid Sudoku.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "36. Valid Sudoku.swift"; sourceTree = "<group>"; };
+		CE4BCF5529B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		CE4BCF5629B4C98E00D40AAB /* 37. Sudoku Solver .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "37. Sudoku Solver .swift"; sourceTree = "<group>"; };
+		CE4BCF5729B4C98E00D40AAB /* 58. Length of Last Word.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "58. Length of Last Word.swift"; sourceTree = "<group>"; };
+		CE4BCF5829B4C98E00D40AAB /* 54. Spiral Matrix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix.swift"; sourceTree = "<group>"; };
+		CE4BCF5929B4C98E00D40AAB /* 15. 3Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
+		CE4BCF5A29B4C98E00D40AAB /* 38. Count and Say.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "38. Count and Say.swift"; sourceTree = "<group>"; };
+		CE4BCF5B29B4C98E00D40AAB /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
+		CE4BCF5D29B4C98E00D40AAB /* 12. Integer to Roman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "12. Integer to Roman.swift"; sourceTree = "<group>"; };
+		CE4BCF5E29B4C98E00D40AAB /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
+		CE4BCF5F29B4C98E00D40AAB /* 46. Permutations .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "46. Permutations .swift"; sourceTree = "<group>"; };
+		CE4BCF6029B4C98E00D40AAB /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
+		CE4BCF6129B4C98E00D40AAB /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
+		CE4BCF6229B4C98E00D40AAB /* 66. Plus One.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
+		CE4BCF6329B4C98E00D40AAB /* 29FAIL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 29FAIL.swift; sourceTree = "<group>"; };
+		CE4BCF6429B4C98E00D40AAB /* 16. 3Sum Closeset.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "16. 3Sum Closeset.swift"; sourceTree = "<group>"; };
+		CE4BCF6529B4C98E00D40AAB /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
+		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
+		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CE3A6186296557E30012280D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CE3A6180296557E30012280D = {
+			isa = PBXGroup;
+			children = (
+				CE4BCFA029B4C9C800D40AAB /* main.swift */,
+				CE4BCF2C29B4C98E00D40AAB /* Baekjoon */,
+				CE4BCF3029B4C98E00D40AAB /* LeetCode */,
+				CE3A618A296557E30012280D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CE3A618A296557E30012280D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE3A6189296557E30012280D /* Algorithm_Swift */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
+			isa = PBXGroup;
+			children = (
+				CE4BCF2D29B4C98E00D40AAB /* 12851.swift */,
+				CE4BCF2E29B4C98E00D40AAB /* 1138.swift */,
+				CE4BCF2F29B4C98E00D40AAB /* 1063.swift */,
+			);
+			path = Baekjoon;
+			sourceTree = "<group>";
+		};
+		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				CE4BCF5329B4C98E00D40AAB /* 11. Container With Most Water.swift */,
+				CE4BCF5D29B4C98E00D40AAB /* 12. Integer to Roman.swift */,
+				CE4BCF5029B4C98E00D40AAB /* 13. Roman to Integer.swift */,
+				CE4BCF3629B4C98E00D40AAB /* 14. Longest Common Prefix.swift */,
+				CE4BCF5929B4C98E00D40AAB /* 15. 3Sum.swift */,
+				CE4BCF6429B4C98E00D40AAB /* 16. 3Sum Closeset.swift */,
+				CE4BCF4B29B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift */,
+				CE4BCF4629B4C98E00D40AAB /* 18. 4Sum.swift */,
+				CE4BCF4029B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift */,
+				CE4BCF6129B4C98E00D40AAB /* 20. Valid Parentheses.swift */,
+				CE4BCF5529B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift */,
+				CE4BCF5B29B4C98E00D40AAB /* 22. Generate Parentheses.swift */,
+				CE4BCF3D29B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift */,
+				CE4BCF4229B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift */,
+				CE4BCF4D29B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift */,
+				CE4BCF4529B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift */,
+				CE4BCF4A29B4C98E00D40AAB /* 27. Remove Element.swift */,
+				CE4BCF4F29B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift */,
+				CE4BCF6329B4C98E00D40AAB /* 29FAIL.swift */,
+				CE4BCF4C29B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift */,
+				CE4BCF3429B4C98E00D40AAB /* 31. Next Permutation.swift */,
+				CE4BCF4729B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift */,
+				CE4BCF6029B4C98E00D40AAB /* 35. Search Insert Position.swift */,
+				CE4BCF5429B4C98E00D40AAB /* 36. Valid Sudoku.swift */,
+				CE4BCF5629B4C98E00D40AAB /* 37. Sudoku Solver .swift */,
+				CE4BCF5A29B4C98E00D40AAB /* 38. Count and Say.swift */,
+				CE4BCF3C29B4C98E00D40AAB /* 39. Combination Sum.swift */,
+				CE4BCF3B29B4C98E00D40AAB /* 40. Combination Sum II.swift */,
+				CE4BCF5E29B4C98E00D40AAB /* 41. First Missing Positive.swift */,
+				CE4BCF3A29B4C98E00D40AAB /* 42. Trapping Rain Water .swift */,
+				CE4BCF3229B4C98E00D40AAB /* 43. Multiply Strings .swift */,
+				CE4BCF3729B4C98E00D40AAB /* 44. Wildcard Matching.swift */,
+				CE4BCF4429B4C98E00D40AAB /* 45. Jump Game II .swift */,
+				CE4BCF5F29B4C98E00D40AAB /* 46. Permutations .swift */,
+				CE4BCF3929B4C98E00D40AAB /* 47. Permutations II.swift */,
+				CE4BCF3529B4C98E00D40AAB /* 48. Rotate Image .swift */,
+				CE4BCF6529B4C98E00D40AAB /* 49. Group Anagrams.swift */,
+				CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */,
+				CE4BCF3E29B4C98E00D40AAB /* 53. Maximum Subarray.swift */,
+				CE4BCF5829B4C98E00D40AAB /* 54. Spiral Matrix.swift */,
+				CE4BCF4E29B4C98E00D40AAB /* 55. Jump Game.swift */,
+				CE4BCF4129B4C98E00D40AAB /* 56. Merge Intervals.swift */,
+				CE4BCF4929B4C98E00D40AAB /* 57. Insert Interval.swift */,
+				CE4BCF5729B4C98E00D40AAB /* 58. Length of Last Word.swift */,
+				CE4BCF5229B4C98E00D40AAB /* 59. Spiral Matrix II.swift */,
+				CE4BCF5129B4C98E00D40AAB /* 60. Permutation Sequence.swift */,
+				CE4BCF4329B4C98E00D40AAB /* 61. Rotate List.swift */,
+				CE4BCF3129B4C98E00D40AAB /* 62. Unique Paths.swift */,
+				CE4BCF3329B4C98E00D40AAB /* 63. Unique Paths II.swift */,
+				CE4BCF3829B4C98E00D40AAB /* 64. Minimum Path Sum.swift */,
+				CE4BCF4829B4C98E00D40AAB /* 65. Valid Number.swift */,
+				CE4BCF6229B4C98E00D40AAB /* 66. Plus One.swift */,
+				CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CE3A6188296557E30012280D /* Algorithm_Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE3A6190296557E30012280D /* Build configuration list for PBXNativeTarget "Algorithm_Swift" */;
+			buildPhases = (
+				CE3A6185296557E30012280D /* Sources */,
+				CE3A6186296557E30012280D /* Frameworks */,
+				CE3A6187296557E30012280D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Algorithm_Swift;
+			productName = Algorithm_Swift;
+			productReference = CE3A6189296557E30012280D /* Algorithm_Swift */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CE3A6181296557E30012280D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					CE3A6188296557E30012280D = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = CE3A6184296557E30012280D /* Build configuration list for PBXProject "Swift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE3A6180296557E30012280D;
+			productRefGroup = CE3A618A296557E30012280D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CE3A6188296557E30012280D /* Algorithm_Swift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CE3A6185296557E30012280D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */,
+				CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */,
+				CE4BCF8A29B4C98E00D40AAB /* 60. Permutation Sequence.swift in Sources */,
+				CE4BCF7C29B4C98E00D40AAB /* 61. Rotate List.swift in Sources */,
+				CE4BCF9629B4C98E00D40AAB /* 12. Integer to Roman.swift in Sources */,
+				CE4BCF8F29B4C98E00D40AAB /* 37. Sudoku Solver .swift in Sources */,
+				CE4BCF9229B4C98E00D40AAB /* 15. 3Sum.swift in Sources */,
+				CE4BCF7229B4C98E00D40AAB /* 47. Permutations II.swift in Sources */,
+				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
+				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
+				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
+				CE4BCF8129B4C98E00D40AAB /* 65. Valid Number.swift in Sources */,
+				CE4BCF8C29B4C98E00D40AAB /* 11. Container With Most Water.swift in Sources */,
+				CE4BCF7429B4C98E00D40AAB /* 40. Combination Sum II.swift in Sources */,
+				CE4BCF7329B4C98E00D40AAB /* 42. Trapping Rain Water .swift in Sources */,
+				CE4BCF9D29B4C98E00D40AAB /* 16. 3Sum Closeset.swift in Sources */,
+				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
+				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
+				CE4BCF9A29B4C98E00D40AAB /* 20. Valid Parentheses.swift in Sources */,
+				CE4BCF6D29B4C98E00D40AAB /* 31. Next Permutation.swift in Sources */,
+				CE4BCF8829B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift in Sources */,
+				CE4BCF7929B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift in Sources */,
+				CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */,
+				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
+				CE4BCF7F29B4C98E00D40AAB /* 18. 4Sum.swift in Sources */,
+				CE4BCF8D29B4C98E00D40AAB /* 36. Valid Sudoku.swift in Sources */,
+				CE4BCF8529B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift in Sources */,
+				CE4BCF9929B4C98E00D40AAB /* 35. Search Insert Position.swift in Sources */,
+				CE4BCF8229B4C98E00D40AAB /* 57. Insert Interval.swift in Sources */,
+				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
+				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
+				CE4BCF8629B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift in Sources */,
+				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
+				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
+				CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */,
+				CE4BCF6C29B4C98E00D40AAB /* 63. Unique Paths II.swift in Sources */,
+				CE4BCF7E29B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
+				CE4BCF6A29B4C98E00D40AAB /* 62. Unique Paths.swift in Sources */,
+				CE4BCF8B29B4C98E00D40AAB /* 59. Spiral Matrix II.swift in Sources */,
+				CE4BCF6F29B4C98E00D40AAB /* 14. Longest Common Prefix.swift in Sources */,
+				CE4BCF8E29B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift in Sources */,
+				CE4BCF8029B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
+				CE4BCF9729B4C98E00D40AAB /* 41. First Missing Positive.swift in Sources */,
+				CE4BCF8429B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift in Sources */,
+				CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */,
+				CE4BCF6E29B4C98E00D40AAB /* 48. Rotate Image .swift in Sources */,
+				CE4BCF6B29B4C98E00D40AAB /* 43. Multiply Strings .swift in Sources */,
+				CE4BCF9329B4C98E00D40AAB /* 38. Count and Say.swift in Sources */,
+				CE4BCF7B29B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift in Sources */,
+				CE4BCF8929B4C98E00D40AAB /* 13. Roman to Integer.swift in Sources */,
+				CE4BCF7729B4C98E00D40AAB /* 53. Maximum Subarray.swift in Sources */,
+				CE4BCF9029B4C98E00D40AAB /* 58. Length of Last Word.swift in Sources */,
+				CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */,
+				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
+				CE4BCF7029B4C98E00D40AAB /* 44. Wildcard Matching.swift in Sources */,
+				CE4BCF8329B4C98E00D40AAB /* 27. Remove Element.swift in Sources */,
+				CE4BCF9829B4C98E00D40AAB /* 46. Permutations .swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CE3A618E296557E30012280D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CE3A618F296557E30012280D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		CE3A6191296557E30012280D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CE3A6192296557E30012280D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE3A6184296557E30012280D /* Build configuration list for PBXProject "Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3A618E296557E30012280D /* Debug */,
+				CE3A618F296557E30012280D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE3A6190296557E30012280D /* Build configuration list for PBXNativeTarget "Algorithm_Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3A6191296557E30012280D /* Debug */,
+				CE3A6192296557E30012280D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE3A6181296557E30012280D /* Project object */;
+}
