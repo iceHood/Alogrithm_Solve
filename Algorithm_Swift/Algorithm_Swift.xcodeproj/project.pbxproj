@@ -28,6 +28,7 @@
 		CE31A8D22989628C0038AF20 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A8D12989628C0038AF20 /* 35. Search Insert Position.swift */; };
 		CE3A618D296557E30012280D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3A618C296557E30012280D /* main.swift */; };
 		CE5AB92829B339BA00831C6C /* 65. Valid Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5AB92729B339BA00831C6C /* 65. Valid Number.swift */; };
+		CE5AB92A29B4C14600831C6C /* 66. Plus One.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5AB92929B4C14600831C6C /* 66. Plus One.swift */; };
 		CE5BC8B42994D2C10044C682 /* 42. Trapping Rain Water .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5BC8B32994D2C10044C682 /* 42. Trapping Rain Water .swift */; };
 		CE5E79DE29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */; };
 		CE62835F29670B4B00BC03B2 /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE62835E29670B4B00BC03B2 /* 1063.swift */; };
@@ -98,6 +99,7 @@
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE3A618C296557E30012280D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE5AB92729B339BA00831C6C /* 65. Valid Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "65. Valid Number.swift"; sourceTree = "<group>"; };
+		CE5AB92929B4C14600831C6C /* 66. Plus One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
 		CE5BC8B32994D2C10044C682 /* 42. Trapping Rain Water .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water .swift"; sourceTree = "<group>"; };
 		CE5E79DD29743AB0002A1613 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
 		CE62835C2966EE4700BC03B2 /* 12851.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				CE3A618C296557E30012280D /* main.swift */,
+				CE5AB92929B4C14600831C6C /* 66. Plus One.swift */,
 				CE5AB92729B339BA00831C6C /* 65. Valid Number.swift */,
 				CE31572729B1E2320013CDB9 /* 64. Minimum Path Sum.swift */,
 				CE9BFD2329B028AE00750F4F /* 63. Unique Paths II.swift */,
@@ -300,6 +303,7 @@
 				CEC3F61829910BE0009ADB54 /* 39. Combination Sum.swift in Sources */,
 				CE31572829B1E2320013CDB9 /* 64. Minimum Path Sum.swift in Sources */,
 				CE784B74296E8605005F016F /* 14. Longest Common Prefix.swift in Sources */,
+				CE5AB92A29B4C14600831C6C /* 66. Plus One.swift in Sources */,
 				CE9BFD2429B028AE00750F4F /* 63. Unique Paths II.swift in Sources */,
 				CE62D64529AB05AE00D5525B /* 60. Permutation Sequence.swift in Sources */,
 				CEC7A85A297FE60C00C8F49C /* 24. Swap Nodes in Pairs.swift in Sources */,
