@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2D29B4C98E00D40AAB /* 12851.swift */; };
 		CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2E29B4C98E00D40AAB /* 1138.swift */; };
 		CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2F29B4C98E00D40AAB /* 1063.swift */; };
@@ -80,6 +81,7 @@
 
 /* Begin PBXFileReference section */
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4BCF2D29B4C98E00D40AAB /* 12851.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
 		CE4BCF2E29B4C98E00D40AAB /* 1138.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CE4BCF2F29B4C98E00D40AAB /* 1063.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
@@ -234,6 +236,7 @@
 				CE4BCF4829B4C98E00D40AAB /* 65. Valid Number.swift */,
 				CE4BCF6229B4C98E00D40AAB /* 66. Plus One.swift */,
 				CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */,
+				CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				CE4BCF7929B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift in Sources */,
 				CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */,
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
+				CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */,
 				CE4BCF7F29B4C98E00D40AAB /* 18. 4Sum.swift in Sources */,
 				CE4BCF8D29B4C98E00D40AAB /* 36. Valid Sudoku.swift in Sources */,
 				CE4BCF8529B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift in Sources */,
