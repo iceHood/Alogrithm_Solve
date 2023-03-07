@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
+		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
 		CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2D29B4C98E00D40AAB /* 12851.swift */; };
 		CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2E29B4C98E00D40AAB /* 1138.swift */; };
 		CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2F29B4C98E00D40AAB /* 1063.swift */; };
@@ -82,6 +83,7 @@
 /* Begin PBXFileReference section */
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
+		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
 		CE4BCF2D29B4C98E00D40AAB /* 12851.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
 		CE4BCF2E29B4C98E00D40AAB /* 1138.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CE4BCF2F29B4C98E00D40AAB /* 1063.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */,
 				CE4BCF5329B4C98E00D40AAB /* 11. Container With Most Water.swift */,
 				CE4BCF5D29B4C98E00D40AAB /* 12. Integer to Roman.swift */,
 				CE4BCF5029B4C98E00D40AAB /* 13. Roman to Integer.swift */,
@@ -307,6 +310,7 @@
 				CE4BCF8F29B4C98E00D40AAB /* 37. Sudoku Solver .swift in Sources */,
 				CE4BCF9229B4C98E00D40AAB /* 15. 3Sum.swift in Sources */,
 				CE4BCF7229B4C98E00D40AAB /* 47. Permutations II.swift in Sources */,
+				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
 				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
 				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
