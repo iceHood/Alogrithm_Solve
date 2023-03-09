@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
 		CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2D29B4C98E00D40AAB /* 12851.swift */; };
@@ -82,6 +83,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
@@ -187,6 +189,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */,
 				CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */,
 				CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */,
 				CE4BCF5329B4C98E00D40AAB /* 11. Container With Most Water.swift */,
@@ -338,6 +341,7 @@
 				CE4BCF8229B4C98E00D40AAB /* 57. Insert Interval.swift in Sources */,
 				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
+				CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */,
 				CE4BCF8629B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
