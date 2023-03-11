@@ -11,6 +11,7 @@
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
+		CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */; };
 		CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2D29B4C98E00D40AAB /* 12851.swift */; };
 		CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2E29B4C98E00D40AAB /* 1138.swift */; };
 		CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF2F29B4C98E00D40AAB /* 1063.swift */; };
@@ -89,6 +90,7 @@
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
+		CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "72. Edit Distance.swift"; sourceTree = "<group>"; };
 		CE4BCF2D29B4C98E00D40AAB /* 12851.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 12851.swift; sourceTree = "<group>"; };
 		CE4BCF2E29B4C98E00D40AAB /* 1138.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1138.swift; sourceTree = "<group>"; };
 		CE4BCF2F29B4C98E00D40AAB /* 1063.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1063.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */,
 				CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */,
 				CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */,
 				CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */,
@@ -342,6 +345,7 @@
 				CE4BCF8529B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift in Sources */,
 				CE4BCF9929B4C98E00D40AAB /* 35. Search Insert Position.swift in Sources */,
 				CE4BCF8229B4C98E00D40AAB /* 57. Insert Interval.swift in Sources */,
+				CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */,
 				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
 				CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */,
