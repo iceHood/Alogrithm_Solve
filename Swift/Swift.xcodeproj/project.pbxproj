@@ -70,6 +70,7 @@
 		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
+		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -149,6 +150,7 @@
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
+		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */,
 				CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */,
 				CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */,
 				CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */,
@@ -321,6 +324,7 @@
 				CE4BCF9629B4C98E00D40AAB /* 12. Integer to Roman.swift in Sources */,
 				CE4BCF8F29B4C98E00D40AAB /* 37. Sudoku Solver .swift in Sources */,
 				CE4BCF9229B4C98E00D40AAB /* 15. 3Sum.swift in Sources */,
+				CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */,
 				CE4BCF7229B4C98E00D40AAB /* 47. Permutations II.swift in Sources */,
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
