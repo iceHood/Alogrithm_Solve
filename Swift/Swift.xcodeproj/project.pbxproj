@@ -71,6 +71,7 @@
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
+		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,6 +152,7 @@
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
+		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */,
 				CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */,
 				CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */,
 				CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */,
@@ -332,6 +335,7 @@
 				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
 				CE4BCF8129B4C98E00D40AAB /* 65. Valid Number.swift in Sources */,
 				CE4BCF8C29B4C98E00D40AAB /* 11. Container With Most Water.swift in Sources */,
+				CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */,
 				CE4BCF7429B4C98E00D40AAB /* 40. Combination Sum II.swift in Sources */,
 				CE4BCF7329B4C98E00D40AAB /* 42. Trapping Rain Water .swift in Sources */,
 				CE4BCF9D29B4C98E00D40AAB /* 16. 3Sum Closeset.swift in Sources */,
