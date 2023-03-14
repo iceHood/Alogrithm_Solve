@@ -70,6 +70,7 @@
 		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
+		CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
 /* End PBXBuildFile section */
@@ -151,6 +152,7 @@
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
+		CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -197,6 +199,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */,
 				CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */,
 				CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */,
 				CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */,
@@ -380,6 +383,7 @@
 				CE4BCF7729B4C98E00D40AAB /* 53. Maximum Subarray.swift in Sources */,
 				CE4BCF9029B4C98E00D40AAB /* 58. Length of Last Word.swift in Sources */,
 				CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */,
+				CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */,
 				CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 				CE4BCF7029B4C98E00D40AAB /* 44. Wildcard Matching.swift in Sources */,
