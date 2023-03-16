@@ -72,6 +72,7 @@
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
 		CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */; };
+		CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
 /* End PBXBuildFile section */
@@ -155,6 +156,7 @@
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
+		CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "76. Minimum Window Substring.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -202,6 +204,7 @@
 			isa = PBXGroup;
 			children = (
 				CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */,
+				CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */,
 				CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */,
 				CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */,
 				CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */,
@@ -375,6 +378,7 @@
 				CE4BCF8B29B4C98E00D40AAB /* 59. Spiral Matrix II.swift in Sources */,
 				CE4BCF6F29B4C98E00D40AAB /* 14. Longest Common Prefix.swift in Sources */,
 				CE4BCF8E29B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift in Sources */,
+				CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */,
 				CE4BCF8029B4C98E00D40AAB /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */,
 				CE4BCF9729B4C98E00D40AAB /* 41. First Missing Positive.swift in Sources */,
 				CE4BCF8429B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift in Sources */,
