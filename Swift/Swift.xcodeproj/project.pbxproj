@@ -73,6 +73,7 @@
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
 		CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE91EB3C29C584A600F1005A /* 79. Word Search.swift */; };
+		CEC9D52B29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */; };
 		CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */; };
 		CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */; };
 		CED1C42B29C4232300539801 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1C42A29C4232300539801 /* 78. Subsets.swift */; };
@@ -160,6 +161,7 @@
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
+		CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "81. Search in Rotated Sorted Array II.swift"; sourceTree = "<group>"; };
 		CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
 		CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "76. Minimum Window Substring.swift"; sourceTree = "<group>"; };
 		CED1C42A29C4232300539801 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
@@ -209,6 +211,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */,
 				CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */,
 				CE91EB3C29C584A600F1005A /* 79. Word Search.swift */,
 				CED1C42A29C4232300539801 /* 78. Subsets.swift */,
@@ -401,6 +404,7 @@
 				CE4BCF7B29B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CE4BCF8929B4C98E00D40AAB /* 13. Roman to Integer.swift in Sources */,
 				CE4BCF7729B4C98E00D40AAB /* 53. Maximum Subarray.swift in Sources */,
+				CEC9D52B29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift in Sources */,
 				CE4BCF9029B4C98E00D40AAB /* 58. Length of Last Word.swift in Sources */,
 				CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */,
 				CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */,
