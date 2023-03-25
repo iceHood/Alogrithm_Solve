@@ -83,6 +83,7 @@
 		CED1C42B29C4232300539801 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1C42A29C4232300539801 /* 78. Subsets.swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
+		CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE035CF29CE97C3006444EF /* 86. Partition List.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -175,6 +176,7 @@
 		CED1C42A29C4232300539801 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
+		CEE035CF29CE97C3006444EF /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEE035CF29CE97C3006444EF /* 86. Partition List.swift */,
 				CEC91B2229CD644E00993657 /* 85. Maximal Rectangle.swift */,
 				CEC91B1D29CC113600993657 /* 84. Largest Rectangle in Histogram.swift */,
 				CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */,
@@ -362,6 +365,7 @@
 				CE4BCF9229B4C98E00D40AAB /* 15. 3Sum.swift in Sources */,
 				CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */,
 				CE4BCF7229B4C98E00D40AAB /* 47. Permutations II.swift in Sources */,
+				CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */,
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
 				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
