@@ -74,6 +74,7 @@
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
+		CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */; };
 		CE7395F729CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */; };
 		CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE91EB3C29C584A600F1005A /* 79. Word Search.swift */; };
 		CEC45B0A29C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */; };
@@ -169,6 +170,7 @@
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
+		CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "90. Subsets II.swift"; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
 		CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "82. Remove Duplicates from Sorted List II.swift"; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */,
 				CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */,
 				CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */,
 				CEE035CF29CE97C3006444EF /* 86. Partition List.swift */,
@@ -411,6 +414,7 @@
 				CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
+				CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */,
 				CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */,
 				CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */,
 				CE4BCF6C29B4C98E00D40AAB /* 63. Unique Paths II.swift in Sources */,
