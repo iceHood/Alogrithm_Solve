@@ -88,6 +88,7 @@
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
 		CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE035CF29CE97C3006444EF /* 86. Partition List.swift */; };
+		CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -185,6 +186,7 @@
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		CEE035CF29CE97C3006444EF /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
+		CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -229,6 +231,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */,
 				CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */,
 				CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */,
 				CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */,
@@ -414,6 +417,7 @@
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
 				CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */,
 				CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */,
+				CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */,
 				CE4BCF8629B4C98E00D40AAB /* 25. Reverse Nodes in k-Group.swift in Sources */,
 				CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
