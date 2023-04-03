@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		CECA9B4F29DA510B0070D8BA /* 1005.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CECA9B4E29DA510B0070D8BA /* 1005.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		CE5AB93229B4C27000831C6C /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
+		CECA9B4E29DA510B0070D8BA /* 1005.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1005.cpp; sourceTree = "<group>"; };
 		CEDDF35729B4CA1C00B44EFE /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
 		CEDDF35829B4CA1C00B44EFE /* 4803.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4803.cpp; sourceTree = "<group>"; };
 		CEDDF35929B4CA1C00B44EFE /* 1991.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1991.cpp; sourceTree = "<group>"; };
@@ -324,6 +329,7 @@
 				CEDDF3D429B4CA1C00B44EFE /* 21924.cpp */,
 				CEDDF3AD29B4CA1C00B44EFE /* 23559.cpp */,
 				CEDDF3A929B4CA1C00B44EFE /* 24391.cpp */,
+				CECA9B4E29DA510B0070D8BA /* 1005.cpp */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -413,6 +419,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CECA9B4F29DA510B0070D8BA /* 1005.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
