@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */; };
 		CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
@@ -106,6 +107,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. Unique Binary Search Trees II.swift"; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */,
 				CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */,
 				CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */,
 				CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */,
@@ -448,6 +451,7 @@
 				CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */,
 				CE4BCF6E29B4C98E00D40AAB /* 48. Rotate Image .swift in Sources */,
 				CE4BCF6B29B4C98E00D40AAB /* 43. Multiply Strings .swift in Sources */,
+				CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */,
 				CE4BCF9329B4C98E00D40AAB /* 38. Count and Say.swift in Sources */,
 				CE4BCF7B29B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift in Sources */,
 				CE4BCF8929B4C98E00D40AAB /* 13. Roman to Integer.swift in Sources */,
