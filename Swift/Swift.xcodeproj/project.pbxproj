@@ -13,6 +13,7 @@
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
 		CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */; };
 		CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */; };
+		CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */; };
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
 		CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */; };
@@ -113,6 +114,7 @@
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
 		CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
+		CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96. Unique Binary Search Trees.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
@@ -237,6 +239,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */,
 				CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */,
 				CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */,
 				CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */,
@@ -393,6 +396,7 @@
 				CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */,
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
+				CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */,
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
 				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
