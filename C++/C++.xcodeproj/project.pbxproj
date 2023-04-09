@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		CE09DE2D29DBA2A900FDAEC9 /* 1007-fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1007-fail.cpp"; sourceTree = "<group>"; };
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1987.cpp; sourceTree = "<group>"; };
 		CECA9B4E29DA510B0070D8BA /* 1005.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1005.cpp; sourceTree = "<group>"; };
 		CEDDF35729B4CA1C00B44EFE /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
 		CEDDF35829B4CA1C00B44EFE /* 4803.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4803.cpp; sourceTree = "<group>"; };
@@ -198,6 +199,7 @@
 		CEDDF35629B4CA1C00B44EFE /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */,
 				CEDDF3C729B4CA1C00B44EFE /* 1010 - not now.cpp */,
 				CEDDF3BC29B4CA1C00B44EFE /* 1043_1.cpp */,
 				CEDDF3C829B4CA1C00B44EFE /* 1043_2.cpp */,
