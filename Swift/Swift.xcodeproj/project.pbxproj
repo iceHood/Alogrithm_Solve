@@ -89,6 +89,7 @@
 		CEC9D52B29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */; };
 		CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */; };
 		CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */; };
+		CED196B32A00912B00EED431 /* 99. Recover Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED196B22A00912B00EED431 /* 99. Recover Binary Search Tree.swift */; };
 		CED1C42B29C4232300539801 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1C42A29C4232300539801 /* 78. Subsets.swift */; };
 		CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
@@ -193,6 +194,7 @@
 		CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "81. Search in Rotated Sorted Array II.swift"; sourceTree = "<group>"; };
 		CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
 		CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "76. Minimum Window Substring.swift"; sourceTree = "<group>"; };
+		CED196B22A00912B00EED431 /* 99. Recover Binary Search Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "99. Recover Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CED1C42A29C4232300539801 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
@@ -243,6 +245,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CED196B22A00912B00EED431 /* 99. Recover Binary Search Tree.swift */,
 				CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */,
 				CE04849229DFE619007138A2 /* 97. Interleaving String.swift */,
 				CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */,
@@ -463,6 +466,7 @@
 				CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */,
 				CE4BCF6E29B4C98E00D40AAB /* 48. Rotate Image .swift in Sources */,
 				CE4BCF6B29B4C98E00D40AAB /* 43. Multiply Strings .swift in Sources */,
+				CED196B32A00912B00EED431 /* 99. Recover Binary Search Tree.swift in Sources */,
 				CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */,
 				CE4BCF9329B4C98E00D40AAB /* 38. Count and Say.swift in Sources */,
 				CE4BCF7B29B4C98E00D40AAB /* 24. Swap Nodes in Pairs.swift in Sources */,
