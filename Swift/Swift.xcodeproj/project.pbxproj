@@ -75,6 +75,7 @@
 		CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6529B4C98E00D40AAB /* 49. Group Anagrams.swift */; };
 		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CE6125272A051E370091AE2A /* 7579.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125262A051E370091AE2A /* 7579.swift */; };
 		CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
@@ -181,6 +182,7 @@
 		CE4BCF6529B4C98E00D40AAB /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
+		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
@@ -237,6 +239,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE6125262A051E370091AE2A /* 7579.swift */,
 				CE4BCF2D29B4C98E00D40AAB /* 12851.swift */,
 				CE4BCF2E29B4C98E00D40AAB /* 1138.swift */,
 				CE4BCF2F29B4C98E00D40AAB /* 1063.swift */,
@@ -418,6 +421,7 @@
 				CE4BCF7429B4C98E00D40AAB /* 40. Combination Sum II.swift in Sources */,
 				CE4BCF7329B4C98E00D40AAB /* 42. Trapping Rain Water .swift in Sources */,
 				CEC45B0A29C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift in Sources */,
+				CE6125272A051E370091AE2A /* 7579.swift in Sources */,
 				CE4BCF9D29B4C98E00D40AAB /* 16. 3Sum Closeset.swift in Sources */,
 				CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */,
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
