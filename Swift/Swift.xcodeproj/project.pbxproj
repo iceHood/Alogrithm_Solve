@@ -76,6 +76,7 @@
 		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE6125272A051E370091AE2A /* 7579.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125262A051E370091AE2A /* 7579.swift */; };
+		CE6125292A0637660091AE2A /* 2342.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125282A0637660091AE2A /* 2342.swift */; };
 		CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
@@ -183,6 +184,7 @@
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
+		CE6125282A0637660091AE2A /* 2342.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2342.swift; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE6125282A0637660091AE2A /* 2342.swift */,
 				CE6125262A051E370091AE2A /* 7579.swift */,
 				CE4BCF2D29B4C98E00D40AAB /* 12851.swift */,
 				CE4BCF2E29B4C98E00D40AAB /* 1138.swift */,
@@ -442,6 +445,7 @@
 				CE4BCF8D29B4C98E00D40AAB /* 36. Valid Sudoku.swift in Sources */,
 				CE4BCF8529B4C98E00D40AAB /* 30. Substring with Concatenation of All Words.swift in Sources */,
 				CE4BCF9929B4C98E00D40AAB /* 35. Search Insert Position.swift in Sources */,
+				CE6125292A0637660091AE2A /* 2342.swift in Sources */,
 				CE4BCF8229B4C98E00D40AAB /* 57. Insert Interval.swift in Sources */,
 				CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */,
 				CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */,
