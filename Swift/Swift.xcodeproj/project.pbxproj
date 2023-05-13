@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE04849329DFE619007138A2 /* 97. Interleaving String.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE04849229DFE619007138A2 /* 97. Interleaving String.swift */; };
 		CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */; };
+		CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */; };
 		CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
@@ -121,6 +122,7 @@
 /* Begin PBXFileReference section */
 		CE04849229DFE619007138A2 /* 97. Interleaving String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. Interleaving String.swift"; sourceTree = "<group>"; };
 		CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. Unique Binary Search Trees II.swift"; sourceTree = "<group>"; };
+		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */,
 				CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */,
 				CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */,
 				CEA1F8D92A07CDBB00B9EF96 /* 101. Symmetric Tree.swift */,
@@ -468,6 +471,7 @@
 				CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */,
 				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
+				CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */,
 				CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */,
 				CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */,
