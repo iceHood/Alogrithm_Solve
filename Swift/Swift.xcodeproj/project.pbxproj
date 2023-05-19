@@ -17,6 +17,7 @@
 		CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */; };
 		CE31A41E2A0883E10058A811 /* 2098.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A41D2A0883E10058A811 /* 2098.swift */; };
 		CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */; };
+		CE33ECAE2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */; };
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
@@ -134,6 +135,7 @@
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
 		CE31A41D2A0883E10058A811 /* 2098.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2098.swift; sourceTree = "<group>"; };
 		CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
+		CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96. Unique Binary Search Trees.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
@@ -276,6 +278,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */,
 				CEB50BEC2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift */,
 				CEB50BEA2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift */,
 				CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */,
@@ -464,6 +467,7 @@
 				CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */,
 				CE4BCF9A29B4C98E00D40AAB /* 20. Valid Parentheses.swift in Sources */,
 				CE4BCF6D29B4C98E00D40AAB /* 31. Next Permutation.swift in Sources */,
+				CE33ECAE2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
 				CE7395F729CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				CE4BCF8829B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift in Sources */,
 				CE4BCF7929B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift in Sources */,
