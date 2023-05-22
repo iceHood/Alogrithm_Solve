@@ -12,17 +12,16 @@
 //}
 //
 //class Solution {
-//    func isBalanced(_ root: TreeNode?) -> Bool {
-//        if root == nil {
-//            return true
-//        }
-//        return abs(foundMaxHeight(root?.left) - foundMaxHeight(root?.right)) <= 1 && isBalanced(root?.left) && isBalanced(root?.right)
-//    }
-//    func foundMaxHeight(_ node: TreeNode?) -> Int {
-//        if node == nil {
-//            return 0
+//    func minDepth(_ root: TreeNode?) -> Int {
+//        guard root != nil else { return 0 }
+//        let left = minDepth(root?.left)
+//        let right = minDepth(root?.right)
+//        if left == 0 {
+//            return right + 1
+//        } else if right == 0 {
+//            return left + 1
 //        } else {
-//            return max(foundMaxHeight(node?.left), foundMaxHeight(node?.right)) + 1
+//            return min(left, right) + 1
 //        }
 //    }
 //}
