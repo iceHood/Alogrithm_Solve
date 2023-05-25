@@ -18,6 +18,7 @@
 		CE31A41E2A0883E10058A811 /* 2098.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A41D2A0883E10058A811 /* 2098.swift */; };
 		CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */; };
 		CE33ECAE2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
+		CE3483BF2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */; };
 		CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */; };
 		CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */; };
 		CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */; };
@@ -141,6 +142,7 @@
 		CE31A41D2A0883E10058A811 /* 2098.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2098.swift; sourceTree = "<group>"; };
 		CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
 		CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
+		CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "114. Flatten Binary Tree to Linked List.swift"; sourceTree = "<group>"; };
 		CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96. Unique Binary Search Trees.swift"; sourceTree = "<group>"; };
 		CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
@@ -288,6 +290,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */,
 				CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */,
 				CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */,
 				CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */,
@@ -522,6 +525,7 @@
 				CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */,
 				CE4BCF6C29B4C98E00D40AAB /* 63. Unique Paths II.swift in Sources */,
 				CE4BCF7E29B4C98E00D40AAB /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
+				CE3483BF2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift in Sources */,
 				CEE330142A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift in Sources */,
 				CE4BCF6A29B4C98E00D40AAB /* 62. Unique Paths.swift in Sources */,
 				CE4BCF8B29B4C98E00D40AAB /* 59. Spiral Matrix II.swift in Sources */,
