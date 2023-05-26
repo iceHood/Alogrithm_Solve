@@ -19,6 +19,7 @@
 		CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */; };
 		CE33ECAE2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		CE3483BF2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */; };
+		CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */; };
 		CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */; };
 		CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */; };
 		CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */; };
@@ -143,6 +144,7 @@
 		CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
 		CE33ECAD2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "114. Flatten Binary Tree to Linked List.swift"; sourceTree = "<group>"; };
+		CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "115. Distinct Subsequences.swift"; sourceTree = "<group>"; };
 		CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96. Unique Binary Search Trees.swift"; sourceTree = "<group>"; };
 		CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
@@ -290,6 +292,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */,
 				CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */,
 				CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */,
 				CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */,
@@ -482,6 +485,7 @@
 				CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */,
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
+				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
 				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
 				CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */,
 				CE4BCF9A29B4C98E00D40AAB /* 20. Valid Parentheses.swift in Sources */,
