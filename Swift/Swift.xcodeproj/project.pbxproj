@@ -94,6 +94,7 @@
 		CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */; };
 		CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */; };
 		CE83D69E2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */; };
+		CE9050172A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */; };
 		CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE91EB3C29C584A600F1005A /* 79. Word Search.swift */; };
 		CEA1F8DA2A07CDBB00B9EF96 /* 101. Symmetric Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1F8D92A07CDBB00B9EF96 /* 101. Symmetric Tree.swift */; };
 		CEA44C502A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA44C4F2A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift */; };
@@ -220,6 +221,7 @@
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. Populating Next Right Pointers in Each Node.swift"; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
 		CEA1F8D92A07CDBB00B9EF96 /* 101. Symmetric Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "101. Symmetric Tree.swift"; sourceTree = "<group>"; };
 		CEA44C4F2A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109. Convert Sorted List to Binary Search Tree.swift"; sourceTree = "<group>"; };
@@ -292,6 +294,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */,
 				CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */,
 				CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */,
 				CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */,
@@ -547,6 +550,7 @@
 				CE4BCF6B29B4C98E00D40AAB /* 43. Multiply Strings .swift in Sources */,
 				CED196B32A00912B00EED431 /* 99. Recover Binary Search Tree.swift in Sources */,
 				CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */,
+				CE9050172A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift in Sources */,
 				CE4BCF9329B4C98E00D40AAB /* 38. Count and Say.swift in Sources */,
 				CEB50BED2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift in Sources */,
 				CED04C082A11C0B400A3DB77 /* 1644.swift in Sources */,
