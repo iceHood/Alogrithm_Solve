@@ -12,6 +12,7 @@
 		CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */; };
 		CE12D1C42A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */; };
 		CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */; };
+		CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
 		CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */; };
@@ -140,6 +141,7 @@
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
+		CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
@@ -300,6 +302,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */,
 				CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */,
 				CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */,
 				CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */,
@@ -533,6 +536,7 @@
 				CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */,
 				CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
+				CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
 				CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */,
 				CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */,
