@@ -88,6 +88,7 @@
 		CE5FC3372A4088BD0019D702 /* 1766.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5FC3362A4088BD0019D702 /* 1766.swift */; };
 		CE6125272A051E370091AE2A /* 7579.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125262A051E370091AE2A /* 7579.swift */; };
 		CE6125292A0637660091AE2A /* 2342.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125282A0637660091AE2A /* 2342.swift */; };
+		CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE662C672A494EF300DB1EF5 /* 1806.swift */; };
 		CE6775C82A0E14AF00ABE0C5 /* 11049.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6775C72A0E14AF00ABE0C5 /* 11049.swift */; };
 		CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
@@ -221,6 +222,7 @@
 		CE5FC3362A4088BD0019D702 /* 1766.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1766.swift; sourceTree = "<group>"; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
 		CE6125282A0637660091AE2A /* 2342.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2342.swift; sourceTree = "<group>"; };
+		CE662C672A494EF300DB1EF5 /* 1806.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1806.swift; sourceTree = "<group>"; };
 		CE6775C72A0E14AF00ABE0C5 /* 11049.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11049.swift; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
@@ -291,6 +293,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE662C672A494EF300DB1EF5 /* 1806.swift */,
 				CE9099302A4707B700E0E19D /* 1562.swift */,
 				CE4C369A2A45467A00ECD28A /* 1208.swift */,
 				CE8B42502A44077D00744262 /* 2143.swift */,
@@ -508,6 +511,7 @@
 				CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */,
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
+				CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */,
 				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
 				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
 				CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */,
