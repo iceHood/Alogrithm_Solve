@@ -88,6 +88,7 @@
 		CE5FC3372A4088BD0019D702 /* 1766.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5FC3362A4088BD0019D702 /* 1766.swift */; };
 		CE6125272A051E370091AE2A /* 7579.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125262A051E370091AE2A /* 7579.swift */; };
 		CE6125292A0637660091AE2A /* 2342.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125282A0637660091AE2A /* 2342.swift */; };
+		CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE662C672A494EF300DB1EF5 /* 1806.swift */; };
 		CE6775C82A0E14AF00ABE0C5 /* 11049.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6775C72A0E14AF00ABE0C5 /* 11049.swift */; };
 		CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
@@ -104,6 +105,7 @@
 		CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE91EB3C29C584A600F1005A /* 79. Word Search.swift */; };
 		CEA1F8DA2A07CDBB00B9EF96 /* 101. Symmetric Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1F8D92A07CDBB00B9EF96 /* 101. Symmetric Tree.swift */; };
 		CEA44C502A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA44C4F2A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift */; };
+		CEAF83582A4BC145007C7862 /* 2166.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAF83572A4BC145007C7862 /* 2166.swift */; };
 		CEB50BEB2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB50BEA2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift */; };
 		CEB50BED2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB50BEC2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift */; };
 		CEC328522A4DA717000B3317 /* 2467.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC328512A4DA717000B3317 /* 2467.swift */; };
@@ -222,6 +224,7 @@
 		CE5FC3362A4088BD0019D702 /* 1766.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1766.swift; sourceTree = "<group>"; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
 		CE6125282A0637660091AE2A /* 2342.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2342.swift; sourceTree = "<group>"; };
+		CE662C672A494EF300DB1EF5 /* 1806.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1806.swift; sourceTree = "<group>"; };
 		CE6775C72A0E14AF00ABE0C5 /* 11049.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11049.swift; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
@@ -238,6 +241,7 @@
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
 		CEA1F8D92A07CDBB00B9EF96 /* 101. Symmetric Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "101. Symmetric Tree.swift"; sourceTree = "<group>"; };
 		CEA44C4F2A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109. Convert Sorted List to Binary Search Tree.swift"; sourceTree = "<group>"; };
+		CEAF83572A4BC145007C7862 /* 2166.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2166.swift; sourceTree = "<group>"; };
 		CEB50BEA2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "106. Construct Binary Tree from Inorder and Postorder Traversal.swift"; sourceTree = "<group>"; };
 		CEB50BEC2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "107. Binary Tree Level Order Traversal II.swift"; sourceTree = "<group>"; };
 		CEC328512A4DA717000B3317 /* 2467.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2467.swift; sourceTree = "<group>"; };
@@ -294,6 +298,8 @@
 			isa = PBXGroup;
 			children = (
 				CEC328512A4DA717000B3317 /* 2467.swift */,
+				CEAF83572A4BC145007C7862 /* 2166.swift */,
+				CE662C672A494EF300DB1EF5 /* 1806.swift */,
 				CE9099302A4707B700E0E19D /* 1562.swift */,
 				CE4C369A2A45467A00ECD28A /* 1208.swift */,
 				CE8B42502A44077D00744262 /* 2143.swift */,
@@ -511,6 +517,7 @@
 				CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */,
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
+				CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */,
 				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
 				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
 				CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */,
@@ -553,6 +560,7 @@
 				CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
 				CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */,
+				CEAF83582A4BC145007C7862 /* 2166.swift in Sources */,
 				CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */,
 				CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */,
 				CE4BCF6C29B4C98E00D40AAB /* 63. Unique Paths II.swift in Sources */,
