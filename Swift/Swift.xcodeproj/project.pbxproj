@@ -109,6 +109,7 @@
 		CEB50BEB2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB50BEA2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift */; };
 		CEB50BED2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB50BEC2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift */; };
 		CEC328522A4DA717000B3317 /* 2467.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC328512A4DA717000B3317 /* 2467.swift */; };
+		CEC328542A4E829F000B3317 /* 2239.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC328532A4E829F000B3317 /* 2239.swift */; };
 		CEC45B0A29C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */; };
 		CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC91B1D29CC113600993657 /* 84. Largest Rectangle in Histogram.swift */; };
 		CEC91B2329CD644E00993657 /* 85. Maximal Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC91B2229CD644E00993657 /* 85. Maximal Rectangle.swift */; };
@@ -245,6 +246,7 @@
 		CEB50BEA2A1369F700490242 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "106. Construct Binary Tree from Inorder and Postorder Traversal.swift"; sourceTree = "<group>"; };
 		CEB50BEC2A14C6AC00490242 /* 107. Binary Tree Level Order Traversal II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "107. Binary Tree Level Order Traversal II.swift"; sourceTree = "<group>"; };
 		CEC328512A4DA717000B3317 /* 2467.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2467.swift; sourceTree = "<group>"; };
+		CEC328532A4E829F000B3317 /* 2239.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2239.swift; sourceTree = "<group>"; };
 		CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "82. Remove Duplicates from Sorted List II.swift"; sourceTree = "<group>"; };
 		CEC91B1D29CC113600993657 /* 84. Largest Rectangle in Histogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "84. Largest Rectangle in Histogram.swift"; sourceTree = "<group>"; };
 		CEC91B2229CD644E00993657 /* 85. Maximal Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "85. Maximal Rectangle.swift"; sourceTree = "<group>"; };
@@ -297,6 +299,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CEC328532A4E829F000B3317 /* 2239.swift */,
 				CEC328512A4DA717000B3317 /* 2467.swift */,
 				CEAF83572A4BC145007C7862 /* 2166.swift */,
 				CE662C672A494EF300DB1EF5 /* 1806.swift */,
@@ -597,6 +600,7 @@
 				CE4BCF9029B4C98E00D40AAB /* 58. Length of Last Word.swift in Sources */,
 				CEC328522A4DA717000B3317 /* 2467.swift in Sources */,
 				CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */,
+				CEC328542A4E829F000B3317 /* 2239.swift in Sources */,
 				CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */,
 				CED8EE4B2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */,
 				CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */,
