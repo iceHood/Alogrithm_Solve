@@ -13,6 +13,7 @@
 		CE12D1C42A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */; };
 		CE1462F729C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */; };
 		CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
+		CE24A6452A502DED000285B9 /* 2252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6442A502DED000285B9 /* 2252.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
 		CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */; };
@@ -149,6 +150,7 @@
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
 		CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
+		CE24A6442A502DED000285B9 /* 2252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2252.swift; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
@@ -281,6 +283,7 @@
 		CE3A6180296557E30012280D = {
 			isa = PBXGroup;
 			children = (
+				CE24A6442A502DED000285B9 /* 2252.swift */,
 				CE4BCFA029B4C9C800D40AAB /* main.swift */,
 				CE4BCF2C29B4C98E00D40AAB /* Baekjoon */,
 				CE4BCF3029B4C98E00D40AAB /* LeetCode */,
@@ -522,6 +525,7 @@
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
 				CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */,
 				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
+				CE24A6452A502DED000285B9 /* 2252.swift in Sources */,
 				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
 				CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */,
 				CE4BCF9A29B4C98E00D40AAB /* 20. Valid Parentheses.swift in Sources */,
