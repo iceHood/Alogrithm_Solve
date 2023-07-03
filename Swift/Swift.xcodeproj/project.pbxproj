@@ -98,6 +98,7 @@
 		CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */; };
 		CE7395F729CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */; };
 		CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */; };
+		CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7E88EC2A5266AB0018431A /* 9328.swift */; };
 		CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */; };
 		CE83D69E2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */; };
 		CE8B42512A44077D00744262 /* 2143.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8B42502A44077D00744262 /* 2143.swift */; };
@@ -237,6 +238,7 @@
 		CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "90. Subsets II.swift"; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
+		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE8B42502A44077D00744262 /* 2143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2143.swift; sourceTree = "<group>"; };
@@ -303,6 +305,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE7E88EC2A5266AB0018431A /* 9328.swift */,
 				CE24A6462A519F53000285B9 /* 2623.swift */,
 				CE24A6442A502DED000285B9 /* 2252.swift */,
 				CEC328532A4E829F000B3317 /* 2239.swift */,
@@ -509,6 +512,7 @@
 				CE9099312A4707B700E0E19D /* 1562.swift in Sources */,
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */,
+				CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
 				CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */,
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
