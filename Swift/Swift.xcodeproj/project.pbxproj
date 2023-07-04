@@ -125,6 +125,7 @@
 		CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */; };
 		CED6127129BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */; };
 		CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */; };
+		CED676122A53AF5D0040531F /* 10942.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED676112A53AF5D0040531F /* 10942.swift */; };
 		CED8EE4B2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */; };
 		CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE035CF29CE97C3006444EF /* 86. Partition List.swift */; };
 		CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */; };
@@ -265,6 +266,7 @@
 		CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
+		CED676112A53AF5D0040531F /* 10942.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10942.swift; sourceTree = "<group>"; };
 		CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
 		CEE035CF29CE97C3006444EF /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
 		CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102. Binary Tree Level Order Traversal.swift"; sourceTree = "<group>"; };
@@ -305,6 +307,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CED676112A53AF5D0040531F /* 10942.swift */,
 				CE7E88EC2A5266AB0018431A /* 9328.swift */,
 				CE24A6462A519F53000285B9 /* 2623.swift */,
 				CE24A6442A502DED000285B9 /* 2252.swift */,
@@ -570,6 +573,7 @@
 				CE04849329DFE619007138A2 /* 97. Interleaving String.swift in Sources */,
 				CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */,
 				CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */,
+				CED676122A53AF5D0040531F /* 10942.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
 				CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
