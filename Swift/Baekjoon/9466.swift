@@ -59,7 +59,7 @@
 //func dfs(idx: Int) {
 //    visited[idx] = true
 //    let next = arr[idx]
-//    
+//
 //    if !visited[next] {
 //        dfs(idx: next)
 //    } else if !finished[next] {
@@ -81,18 +81,18 @@
 //    visited = [Bool](repeating: false, count: N+1)
 //    finished = [Bool](repeating: false, count: N+1)
 //    count = 0
-//    
+//
 //    for i in 1...N {
 //        arr[i] = fileIOHelper.readInt()
 //    }
-//    
+//
 //    for i in 1...N {
 //        if !visited[i] {
 //            dfs(idx: i)
 //        }
 //    }
-//    
+//
 //    answer += "\(N-count)\n"
-//    
+//
 //}
 //print(answer)
