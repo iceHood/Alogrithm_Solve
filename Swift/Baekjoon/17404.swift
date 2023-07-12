@@ -67,13 +67,13 @@
 //            dp[1][i] = 123456789
 //        }
 //    }
-//    
+//
 //    for home in 2...N { // 차례대로 내 전의 것과 비교하여 최솟값 선택
 //        dp[home][0] = min(dp[home-1][1], dp[home-1][2]) + RGB[home][0]
 //        dp[home][1] = min(dp[home-1][0], dp[home-1][2]) + RGB[home][1]
 //        dp[home][2] = min(dp[home-1][0], dp[home-1][1]) + RGB[home][2]
 //    }
-//    
+//
 //    for i in 0..<3 where i != color { // 마지막에 처음 선택한 것 이외의 색 중에서 최솟값 선택
 //        answer = min(answer, dp[N][i])
 //    }
