@@ -49,10 +49,11 @@ int main() {
     ll answer = 0;
     int Nnodes = 0;
     for(auto it : roads) {
+        if(Nnodes == N - 2) break;
         if(unite_parent(it.second.first, it.second.second)) continue;
         answer += it.first;
         Nnodes++;
-        if(Nnodes == N - 2) break;
+        
     }
     cout << answer;
 }
