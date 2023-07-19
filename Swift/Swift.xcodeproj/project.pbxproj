@@ -100,6 +100,7 @@
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
 		CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */; };
+		CE72A0462A67BAC90071398A /* 2533.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE72A0452A67BAC90071398A /* 2533.swift */; };
 		CE7395F729CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */; };
 		CE74302529D572AC0073F8EB /* 91. Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */; };
 		CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7E88EC2A5266AB0018431A /* 9328.swift */; };
@@ -253,6 +254,7 @@
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "90. Subsets II.swift"; sourceTree = "<group>"; };
+		CE72A0452A67BAC90071398A /* 2533.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2533.swift; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
@@ -331,6 +333,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE72A0452A67BAC90071398A /* 2533.swift */,
 				CE0F601D2A665F8F0085D110 /* 17387.swift */,
 				CEBD9A9A2A64D7DF001CD12A /* 16946.swift */,
 				CE9D85A82A6288C800492BC4 /* 9527.swift */,
@@ -558,6 +561,7 @@
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
 				CE9D85412A5FAB8200492BC4 /* 16724.swift in Sources */,
+				CE72A0462A67BAC90071398A /* 2533.swift in Sources */,
 				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
 				CE4BCF8129B4C98E00D40AAB /* 65. Valid Number.swift in Sources */,
 				CE4BCF8C29B4C98E00D40AAB /* 11. Container With Most Water.swift in Sources */,
