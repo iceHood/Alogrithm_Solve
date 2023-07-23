@@ -21,6 +21,7 @@
 		CE24A6472A519F53000285B9 /* 2623.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6462A519F53000285B9 /* 2623.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
 		CE28710529BAFB1D0036D922 /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */; };
+		CE2AE7A62A6D3C07003E7FAF /* 2042.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2AE7A52A6D3C07003E7FAF /* 2042.swift */; };
 		CE2BA4C029D12CBC006614A0 /* 89. Gray Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */; };
 		CE31A41E2A0883E10058A811 /* 2098.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31A41D2A0883E10058A811 /* 2098.swift */; };
 		CE3352DB29D0853800CC645D /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */; };
@@ -176,6 +177,7 @@
 		CE24A6462A519F53000285B9 /* 2623.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2623.swift; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
+		CE2AE7A52A6D3C07003E7FAF /* 2042.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2042.swift; sourceTree = "<group>"; };
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
 		CE31A41D2A0883E10058A811 /* 2098.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2098.swift; sourceTree = "<group>"; };
 		CE3352DA29D0853800CC645D /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
@@ -337,6 +339,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE2AE7A52A6D3C07003E7FAF /* 2042.swift */,
 				CE79E0E92A6A227400A3F68D /* 1019.swift */,
 				CE3D5CBB2A69189100DCBA13 /* 13334.swift */,
 				CE72A0452A67BAC90071398A /* 2533.swift */,
@@ -601,6 +604,7 @@
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */,
 				CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */,
+				CE2AE7A62A6D3C07003E7FAF /* 2042.swift in Sources */,
 				CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */,
 				CE4BCF7F29B4C98E00D40AAB /* 18. 4Sum.swift in Sources */,
 				CEA44C502A18ED4B009A0C6D /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */,
