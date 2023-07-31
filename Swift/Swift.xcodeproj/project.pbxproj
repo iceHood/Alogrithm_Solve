@@ -32,6 +32,7 @@
 		CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */; };
 		CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */; };
 		CE3D5CBC2A69189100DCBA13 /* 13334.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D5CBB2A69189100DCBA13 /* 13334.swift */; };
+		CE41D9E02A773D1F0061D4D2 /* 120. Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE41D9DF2A773D1F0061D4D2 /* 120. Triangle.swift */; };
 		CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */; };
 		CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */; };
 		CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */; };
@@ -194,6 +195,7 @@
 		CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE3D5CBB2A69189100DCBA13 /* 13334.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13334.swift; sourceTree = "<group>"; };
+		CE41D9DF2A773D1F0061D4D2 /* 120. Triangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "120. Triangle.swift"; sourceTree = "<group>"; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
 		CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "72. Edit Distance.swift"; sourceTree = "<group>"; };
@@ -396,6 +398,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE41D9DF2A773D1F0061D4D2 /* 120. Triangle.swift */,
 				CE680F072A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift */,
 				CE680F052A7265E000F29DC5 /* 118. Pascal's Triangle.swift */,
 				CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */,
@@ -581,6 +584,7 @@
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */,
 				CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */,
+				CE41D9E02A773D1F0061D4D2 /* 120. Triangle.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
 				CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */,
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
