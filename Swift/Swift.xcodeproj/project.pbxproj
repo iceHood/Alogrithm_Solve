@@ -141,6 +141,7 @@
 		CECDB8D229C0072C008FDAA8 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */; };
 		CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */; };
 		CED04C082A11C0B400A3DB77 /* 1644.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED04C072A11C0B400A3DB77 /* 1644.swift */; };
+		CED0FFCF2A7A237A00D973BA /* 1708.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED0FFCE2A7A237A00D973BA /* 1708.swift */; };
 		CED196B32A00912B00EED431 /* 99. Recover Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED196B22A00912B00EED431 /* 99. Recover Binary Search Tree.swift */; };
 		CED1C42B29C4232300539801 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1C42A29C4232300539801 /* 78. Subsets.swift */; };
 		CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */; };
@@ -305,6 +306,7 @@
 		CECDB8D129C0072C008FDAA8 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
 		CECDB8EA29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "76. Minimum Window Substring.swift"; sourceTree = "<group>"; };
 		CED04C072A11C0B400A3DB77 /* 1644.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1644.swift; sourceTree = "<group>"; };
+		CED0FFCE2A7A237A00D973BA /* 1708.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1708.swift; sourceTree = "<group>"; };
 		CED196B22A00912B00EED431 /* 99. Recover Binary Search Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "99. Recover Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CED1C42A29C4232300539801 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = "<group>"; };
@@ -353,6 +355,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CED0FFCE2A7A237A00D973BA /* 1708.swift */,
 				CEB026C92A70DCC700AF659A /* 11505.swift */,
 				CEB026C32A6F63CD00AF659A /* 14725.swift */,
 				CEB026A72A6E129B00AF659A /* 2357.swift */,
@@ -624,6 +627,7 @@
 				CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */,
 				CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */,
 				CE79E0EA2A6A227400A3F68D /* 1019.swift in Sources */,
+				CED0FFCF2A7A237A00D973BA /* 1708.swift in Sources */,
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */,
 				CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */,
