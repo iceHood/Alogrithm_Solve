@@ -103,6 +103,7 @@
 		CE680F062A7265E000F29DC5 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE680F052A7265E000F29DC5 /* 118. Pascal's Triangle.swift */; };
 		CE680F082A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE680F072A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift */; };
 		CE680F0A2A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */; };
+		CE680F0C2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */; };
 		CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */; };
 		CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */; };
 		CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */; };
@@ -269,6 +270,7 @@
 		CE680F052A7265E000F29DC5 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		CE680F072A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
 		CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
+		CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "123. Best Time to Buy and Sell Stock III.swift"; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
@@ -405,6 +407,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */,
 				CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */,
 				CE41D9E32A788B2D0061D4D2 /* 121. Best Time to Buy and Sell Stock.swift */,
 				CE41D9DF2A773D1F0061D4D2 /* 120. Triangle.swift */,
@@ -694,6 +697,7 @@
 				CE0F601E2A665F8F0085D110 /* 17387.swift in Sources */,
 				CE4BCF9729B4C98E00D40AAB /* 41. First Missing Positive.swift in Sources */,
 				CE4BCF8429B4C98E00D40AAB /* 17. Letter Combinations of a Phone Number.swift in Sources */,
+				CE680F0C2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift in Sources */,
 				CEC91B2329CD644E00993657 /* 85. Maximal Rectangle.swift in Sources */,
 				CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */,
 				CE4C369B2A45467A00ECD28A /* 1208.swift in Sources */,
