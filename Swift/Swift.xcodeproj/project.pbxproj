@@ -17,6 +17,7 @@
 		CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
 		CE19AC282A5BD6A000B84020 /* 13460.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC272A5BD6A000B84020 /* 13460.swift */; };
 		CE19AC5C2A5CF2FA00B84020 /* 27172.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC5B2A5CF2FA00B84020 /* 27172.swift */; };
+		CE247EE32A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */; };
 		CE24A6452A502DED000285B9 /* 2252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6442A502DED000285B9 /* 2252.swift */; };
 		CE24A6472A519F53000285B9 /* 2623.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6462A519F53000285B9 /* 2623.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
@@ -183,6 +184,7 @@
 		CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
 		CE19AC272A5BD6A000B84020 /* 13460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13460.swift; sourceTree = "<group>"; };
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
+		CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "124. Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
 		CE24A6442A502DED000285B9 /* 2252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2252.swift; sourceTree = "<group>"; };
 		CE24A6462A519F53000285B9 /* 2623.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2623.swift; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
@@ -407,6 +409,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */,
 				CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */,
 				CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */,
 				CE41D9E32A788B2D0061D4D2 /* 121. Best Time to Buy and Sell Stock.swift */,
@@ -654,6 +657,7 @@
 				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
 				CE042C282A5E765B007A13A2 /* 17404.swift in Sources */,
+				CE247EE32A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
 				CE12D1C42A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift in Sources */,
 				CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				CE8B42512A44077D00744262 /* 2143.swift in Sources */,
