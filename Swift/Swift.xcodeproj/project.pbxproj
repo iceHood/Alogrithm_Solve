@@ -18,6 +18,7 @@
 		CE19AC282A5BD6A000B84020 /* 13460.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC272A5BD6A000B84020 /* 13460.swift */; };
 		CE19AC5C2A5CF2FA00B84020 /* 27172.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC5B2A5CF2FA00B84020 /* 27172.swift */; };
 		CE247EE32A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */; };
+		CE247EE52A8107120002660A /* 125. Valid Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE247EE42A8107120002660A /* 125. Valid Palindrome.swift */; };
 		CE24A6452A502DED000285B9 /* 2252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6442A502DED000285B9 /* 2252.swift */; };
 		CE24A6472A519F53000285B9 /* 2623.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6462A519F53000285B9 /* 2623.swift */; };
 		CE28710329B9A5D60036D922 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */; };
@@ -185,6 +186,7 @@
 		CE19AC272A5BD6A000B84020 /* 13460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13460.swift; sourceTree = "<group>"; };
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
 		CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "124. Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
+		CE247EE42A8107120002660A /* 125. Valid Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. Valid Palindrome.swift"; sourceTree = "<group>"; };
 		CE24A6442A502DED000285B9 /* 2252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2252.swift; sourceTree = "<group>"; };
 		CE24A6462A519F53000285B9 /* 2623.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2623.swift; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
@@ -409,6 +411,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE247EE42A8107120002660A /* 125. Valid Palindrome.swift */,
 				CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */,
 				CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */,
 				CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */,
@@ -584,6 +587,7 @@
 				CE4BCF6829B4C98E00D40AAB /* 1138.swift in Sources */,
 				CE4BCF6929B4C98E00D40AAB /* 1063.swift in Sources */,
 				CEB026CA2A70DCC700AF659A /* 11505.swift in Sources */,
+				CE247EE52A8107120002660A /* 125. Valid Palindrome.swift in Sources */,
 				CE4BCF8A29B4C98E00D40AAB /* 60. Permutation Sequence.swift in Sources */,
 				CE4BCF7C29B4C98E00D40AAB /* 61. Rotate List.swift in Sources */,
 				CE4BCF9629B4C98E00D40AAB /* 12. Integer to Roman.swift in Sources */,
