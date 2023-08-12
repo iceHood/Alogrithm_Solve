@@ -12,6 +12,7 @@
 		CE089BE82A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BE72A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift */; };
 		CE089BEA2A8481F400CE710E /* 130. Surrounded Regions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BE92A8481F400CE710E /* 130. Surrounded Regions.swift */; };
 		CE089BEC2A866D3800CE710E /* 131. Palindrome Partitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */; };
+		CE089BEE2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */; };
 		CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */; };
 		CE0F601E2A665F8F0085D110 /* 17387.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F601D2A665F8F0085D110 /* 17387.swift */; };
 		CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */; };
@@ -184,6 +185,7 @@
 		CE089BE72A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. Sum Root to Leaf Numbers.swift"; sourceTree = "<group>"; };
 		CE089BE92A8481F400CE710E /* 130. Surrounded Regions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "130. Surrounded Regions.swift"; sourceTree = "<group>"; };
 		CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partitioning.swift"; sourceTree = "<group>"; };
+		CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "132. Palindrome Partitioning II.swift"; sourceTree = "<group>"; };
 		CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. Unique Binary Search Trees II.swift"; sourceTree = "<group>"; };
 		CE0F601D2A665F8F0085D110 /* 17387.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17387.swift; sourceTree = "<group>"; };
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
@@ -419,6 +421,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */,
 				CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */,
 				CE089BE92A8481F400CE710E /* 130. Surrounded Regions.swift */,
 				CE089BE72A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift */,
@@ -749,6 +752,7 @@
 				CE089BE82A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift in Sources */,
 				CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
+				CE089BEE2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift in Sources */,
 				CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */,
 				CE4BCF7029B4C98E00D40AAB /* 44. Wildcard Matching.swift in Sources */,
 				CE4BCF8329B4C98E00D40AAB /* 27. Remove Element.swift in Sources */,
