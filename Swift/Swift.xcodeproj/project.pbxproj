@@ -14,6 +14,7 @@
 		CE089BEC2A866D3800CE710E /* 131. Palindrome Partitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */; };
 		CE089BEE2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */; };
 		CE089BF02A8A1B9D00CE710E /* 133. Clone Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BEF2A8A1B9D00CE710E /* 133. Clone Graph.swift */; };
+		CE089BF22A8BAA8600CE710E /* 134. Gas Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE089BF12A8BAA8600CE710E /* 134. Gas Station.swift */; };
 		CE09DE3029DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */; };
 		CE0F601E2A665F8F0085D110 /* 17387.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F601D2A665F8F0085D110 /* 17387.swift */; };
 		CE12D1C22A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */; };
@@ -188,6 +189,7 @@
 		CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partitioning.swift"; sourceTree = "<group>"; };
 		CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "132. Palindrome Partitioning II.swift"; sourceTree = "<group>"; };
 		CE089BEF2A8A1B9D00CE710E /* 133. Clone Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "133. Clone Graph.swift"; sourceTree = "<group>"; };
+		CE089BF12A8BAA8600CE710E /* 134. Gas Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "134. Gas Station.swift"; sourceTree = "<group>"; };
 		CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. Unique Binary Search Trees II.swift"; sourceTree = "<group>"; };
 		CE0F601D2A665F8F0085D110 /* 17387.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17387.swift; sourceTree = "<group>"; };
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
@@ -423,6 +425,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE089BF12A8BAA8600CE710E /* 134. Gas Station.swift */,
 				CE089BEF2A8A1B9D00CE710E /* 133. Clone Graph.swift */,
 				CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */,
 				CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */,
@@ -654,6 +657,7 @@
 				CE33ECAE2A16F7C900E2277E /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
 				CE7395F729CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				CE4BCF8829B4C98E00D40AAB /* 28. Find the Index of the First Occurrence in a String .swift in Sources */,
+				CE089BF22A8BAA8600CE710E /* 134. Gas Station.swift in Sources */,
 				CE4BCF7929B4C98E00D40AAB /* 19. Remove Nth Node From End of List.swift in Sources */,
 				CE9D85A92A6288C800492BC4 /* 9527.swift in Sources */,
 				CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */,
