@@ -146,6 +146,7 @@
 		CEC328542A4E829F000B3317 /* 2239.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC328532A4E829F000B3317 /* 2239.swift */; };
 		CEC45B0A29C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */; };
 		CEC4C1322A828B8100429E02 /* 128. Longest Consecutive Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC4C1312A828B8100429E02 /* 128. Longest Consecutive Sequence.swift */; };
+		CEC869172A8CBA5600BB7FE4 /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC869162A8CBA5600BB7FE4 /* 136. Single Number.swift */; };
 		CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC91B1D29CC113600993657 /* 84. Largest Rectangle in Histogram.swift */; };
 		CEC91B2329CD644E00993657 /* 85. Maximal Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC91B2229CD644E00993657 /* 85. Maximal Rectangle.swift */; };
 		CEC9D52B29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */; };
@@ -322,6 +323,7 @@
 		CEC328532A4E829F000B3317 /* 2239.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2239.swift; sourceTree = "<group>"; };
 		CEC45B0929C934AF00B0A05A /* 82. Remove Duplicates from Sorted List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "82. Remove Duplicates from Sorted List II.swift"; sourceTree = "<group>"; };
 		CEC4C1312A828B8100429E02 /* 128. Longest Consecutive Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "128. Longest Consecutive Sequence.swift"; sourceTree = "<group>"; };
+		CEC869162A8CBA5600BB7FE4 /* 136. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. Single Number.swift"; sourceTree = "<group>"; };
 		CEC91B1D29CC113600993657 /* 84. Largest Rectangle in Histogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "84. Largest Rectangle in Histogram.swift"; sourceTree = "<group>"; };
 		CEC91B2229CD644E00993657 /* 85. Maximal Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "85. Maximal Rectangle.swift"; sourceTree = "<group>"; };
 		CEC9D52A29C7E95300F1142A /* 81. Search in Rotated Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "81. Search in Rotated Sorted Array II.swift"; sourceTree = "<group>"; };
@@ -425,6 +427,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEC869162A8CBA5600BB7FE4 /* 136. Single Number.swift */,
 				CE089BF12A8BAA8600CE710E /* 134. Gas Station.swift */,
 				CE089BEF2A8A1B9D00CE710E /* 133. Clone Graph.swift */,
 				CE089BED2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift */,
@@ -648,6 +651,7 @@
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
 				CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */,
+				CEC869172A8CBA5600BB7FE4 /* 136. Single Number.swift in Sources */,
 				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
 				CE24A6452A502DED000285B9 /* 2252.swift in Sources */,
 				CE4BCF7A29B4C98E00D40AAB /* 56. Merge Intervals.swift in Sources */,
