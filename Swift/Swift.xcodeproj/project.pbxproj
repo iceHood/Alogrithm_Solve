@@ -168,6 +168,7 @@
 		CED676122A53AF5D0040531F /* 10942.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED676112A53AF5D0040531F /* 10942.swift */; };
 		CED8EE4B2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */; };
 		CEE019CB2A9474B9003B733B /* 142. Linked List Cycle II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE019CA2A9474B9003B733B /* 142. Linked List Cycle II.swift */; };
+		CEE019CD2A95F469003B733B /* 143. Reorder List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE019CC2A95F469003B733B /* 143. Reorder List.swift */; };
 		CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE035CF29CE97C3006444EF /* 86. Partition List.swift */; };
 		CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */; };
 		CEE330142A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */; };
@@ -350,6 +351,7 @@
 		CED676112A53AF5D0040531F /* 10942.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10942.swift; sourceTree = "<group>"; };
 		CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
 		CEE019CA2A9474B9003B733B /* 142. Linked List Cycle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "142. Linked List Cycle II.swift"; sourceTree = "<group>"; };
+		CEE019CC2A95F469003B733B /* 143. Reorder List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "143. Reorder List.swift"; sourceTree = "<group>"; };
 		CEE035CF29CE97C3006444EF /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
 		CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102. Binary Tree Level Order Traversal.swift"; sourceTree = "<group>"; };
 		CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
@@ -437,6 +439,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEE019CC2A95F469003B733B /* 143. Reorder List.swift */,
 				CEE019CA2A9474B9003B733B /* 142. Linked List Cycle II.swift */,
 				CE6F71C62A92EE2F002D3B61 /* 141. Linked List Cycle.swift */,
 				CE089BF72A91FCF600CE710E /* 139. Word Break.swift */,
@@ -742,6 +745,7 @@
 				CE4BCF6F29B4C98E00D40AAB /* 14. Longest Common Prefix.swift in Sources */,
 				CE24A6472A519F53000285B9 /* 2623.swift in Sources */,
 				CE4BCF8E29B4C98E00D40AAB /* 21. Merge Two Sorted Lists.swift in Sources */,
+				CEE019CD2A95F469003B733B /* 143. Reorder List.swift in Sources */,
 				CE41D9E42A788B2D0061D4D2 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				CECDB8EB29C2A7BD008FDAA8 /* 76. Minimum Window Substring.swift in Sources */,
 				CED1C42B29C4232300539801 /* 78. Subsets.swift in Sources */,
