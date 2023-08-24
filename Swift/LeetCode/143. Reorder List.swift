@@ -16,9 +16,9 @@
 //
 //@resultBuilder
 //enum LinkedListBuilder {
-//    
+//
 //    typealias Component = ListNode
-//    
+//
 //    static func buildBlock(_ components: Component...) -> Component {
 //        if components.count == 1 {
 //            return components[0]
@@ -32,7 +32,7 @@
 //            return head
 //        }
 //    }
-//    
+//
 //    static func buildArray(_ components: [LinkedListBuilder.Component]) -> LinkedListBuilder.Component {
 //        if components.count == 1 {
 //            return components[0]
@@ -55,7 +55,7 @@
 //            ListNode(value)
 //        }
 //    }
-//    
+//
 //    @LinkedListBuilder
 //    public static func makeLinkedList(_ value: Int) -> ListNode {
 //        ListNode(value)
@@ -76,11 +76,11 @@
 //            arr.append(head!)
 //            head = head?.next
 //        }
-//        
+//
 //        if arr.count == 1 {
 //            return
 //        }
-//        
+//
 //        var answer: ListNode = arr[0]
 //        var left = 1, right = arr.count-1
 //        while left <= right {
