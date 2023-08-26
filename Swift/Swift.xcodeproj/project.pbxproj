@@ -40,6 +40,7 @@
 		CE3483BF2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */; };
 		CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */; };
 		CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */; };
+		CE38E67B2A99F9C8003215E4 /* 146. LRU Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */; };
 		CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */; };
 		CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */; };
 		CE3D5CBC2A69189100DCBA13 /* 13334.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3D5CBB2A69189100DCBA13 /* 13334.swift */; };
@@ -224,6 +225,7 @@
 		CE3483BE2A1EE23A008AABC7 /* 114. Flatten Binary Tree to Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "114. Flatten Binary Tree to Linked List.swift"; sourceTree = "<group>"; };
 		CE3483C02A204A49008AABC7 /* 115. Distinct Subsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "115. Distinct Subsequences.swift"; sourceTree = "<group>"; };
 		CE34E02529DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96. Unique Binary Search Trees.swift"; sourceTree = "<group>"; };
+		CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "146. LRU Cache.swift"; sourceTree = "<group>"; };
 		CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -443,6 +445,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */,
 				CEE019D02A98EA92003B733B /* 145. Binary Tree Postorder Traversal.swift */,
 				CEE019CE2A978EDD003B733B /* 144. Binary Tree Preorder Traversal.swift */,
 				CEE019CC2A95F469003B733B /* 143. Reorder List.swift */,
@@ -675,6 +678,7 @@
 				CEC91B1E29CC113600993657 /* 84. Largest Rectangle in Histogram.swift in Sources */,
 				CE4BCF9429B4C98E00D40AAB /* 22. Generate Parentheses.swift in Sources */,
 				CE6EA18E29C207DB00F8845F /* 77. Combinations.swift in Sources */,
+				CE38E67B2A99F9C8003215E4 /* 146. LRU Cache.swift in Sources */,
 				CE662C682A494EF300DB1EF5 /* 1806.swift in Sources */,
 				CEC869172A8CBA5600BB7FE4 /* 136. Single Number.swift in Sources */,
 				CE3483C12A204A49008AABC7 /* 115. Distinct Subsequences.swift in Sources */,
