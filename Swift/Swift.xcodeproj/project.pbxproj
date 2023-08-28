@@ -381,7 +381,6 @@
 		CE3A6180296557E30012280D = {
 			isa = PBXGroup;
 			children = (
-				CE38E67C2A9CD09A003215E4 /* 147. Insertion Sort List.swift */,
 				CE4BCFA029B4C9C800D40AAB /* main.swift */,
 				CE4BCF2C29B4C98E00D40AAB /* Baekjoon */,
 				CE4BCF3029B4C98E00D40AAB /* LeetCode */,
@@ -448,6 +447,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE38E67C2A9CD09A003215E4 /* 147. Insertion Sort List.swift */,
 				CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */,
 				CEE019D02A98EA92003B733B /* 145. Binary Tree Postorder Traversal.swift */,
 				CEE019CE2A978EDD003B733B /* 144. Binary Tree Preorder Traversal.swift */,
