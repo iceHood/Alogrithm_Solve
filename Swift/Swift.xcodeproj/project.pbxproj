@@ -129,6 +129,7 @@
 		CE79E0EA2A6A227400A3F68D /* 1019.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79E0E92A6A227400A3F68D /* 1019.swift */; };
 		CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7E88EC2A5266AB0018431A /* 9328.swift */; };
 		CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */; };
+		CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */; };
 		CE83D69E2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */; };
 		CE8B42512A44077D00744262 /* 2143.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8B42502A44077D00744262 /* 2143.swift */; };
 		CE8D50C32A4179E00010E7B0 /* 9252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8D50C22A4179E00010E7B0 /* 9252.swift */; };
@@ -317,6 +318,7 @@
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
+		CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE8B42502A44077D00744262 /* 2143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2143.swift; sourceTree = "<group>"; };
 		CE8D50C22A4179E00010E7B0 /* 9252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9252.swift; sourceTree = "<group>"; };
@@ -449,6 +451,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */,
 				CE38E67E2A9D7925003215E4 /* 148. Sort List.swift */,
 				CE38E67C2A9CD09A003215E4 /* 147. Insertion Sort List.swift */,
 				CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */,
@@ -662,6 +665,7 @@
 				CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */,
 				CE41D9E02A773D1F0061D4D2 /* 120. Triangle.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
+				CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */,
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 				CE089BEC2A866D3800CE710E /* 131. Palindrome Partitioning.swift in Sources */,
