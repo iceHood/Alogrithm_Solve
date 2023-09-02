@@ -28,6 +28,7 @@
 		CE19AC5C2A5CF2FA00B84020 /* 27172.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC5B2A5CF2FA00B84020 /* 27172.swift */; };
 		CE2435D72AA01F6E0057BC10 /* 151. Reverse Words in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */; };
 		CE2435D92AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */; };
+		CE2435DB2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */; };
 		CE247EE32A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */; };
 		CE247EE52A8107120002660A /* 125. Valid Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE247EE42A8107120002660A /* 125. Valid Palindrome.swift */; };
 		CE24A6452A502DED000285B9 /* 2252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24A6442A502DED000285B9 /* 2252.swift */; };
@@ -218,6 +219,7 @@
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
 		CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151. Reverse Words in a String.swift"; sourceTree = "<group>"; };
 		CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "152. Maximum Product Subarray.swift"; sourceTree = "<group>"; };
+		CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "153. Find Minimum in Rotated Sorted Array.swift"; sourceTree = "<group>"; };
 		CE247EE22A7FC3670002660A /* 124. Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "124. Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
 		CE247EE42A8107120002660A /* 125. Valid Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. Valid Palindrome.swift"; sourceTree = "<group>"; };
 		CE24A6442A502DED000285B9 /* 2252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2252.swift; sourceTree = "<group>"; };
@@ -455,6 +457,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */,
 				CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */,
 				CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */,
 				CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */,
@@ -738,6 +741,7 @@
 				CEC4C1322A828B8100429E02 /* 128. Longest Consecutive Sequence.swift in Sources */,
 				CE6C0E3D29D854E8009F0E7E /* 93. Restore IP Addresses.swift in Sources */,
 				CE4B855F29BCB12700BBFC26 /* 72. Edit Distance.swift in Sources */,
+				CE2435DB2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */,
 				CE4BCF9E29B4C98E00D40AAB /* 49. Group Anagrams.swift in Sources */,
 				CE4BCF7529B4C98E00D40AAB /* 39. Combination Sum.swift in Sources */,
 				CE042C282A5E765B007A13A2 /* 17404.swift in Sources */,
