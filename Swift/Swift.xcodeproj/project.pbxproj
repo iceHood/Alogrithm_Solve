@@ -182,6 +182,7 @@
 		CEE035D029CE97C3006444EF /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE035CF29CE97C3006444EF /* 86. Partition List.swift */; };
 		CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */; };
 		CEE330142A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */; };
+		CEE6C9EF2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */; };
 		CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */; };
 		CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */; };
 /* End PBXBuildFile section */
@@ -375,6 +376,7 @@
 		CEE035CF29CE97C3006444EF /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
 		CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102. Binary Tree Level Order Traversal.swift"; sourceTree = "<group>"; };
 		CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
+		CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "160. Intersection of Two Linked Lists.swift"; sourceTree = "<group>"; };
 		CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 		CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -459,6 +461,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */,
 				CE2435E52AA56CAD0057BC10 /* 155. Min Stack.swift */,
 				CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */,
 				CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */,
@@ -729,6 +732,7 @@
 				CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */,
 				CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */,
 				CEE019D12A98EA92003B733B /* 145. Binary Tree Postorder Traversal.swift in Sources */,
+				CEE6C9EF2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift in Sources */,
 				CE2AE7A62A6D3C07003E7FAF /* 2042.swift in Sources */,
 				CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */,
 				CE4BCF7F29B4C98E00D40AAB /* 18. 4Sum.swift in Sources */,
