@@ -183,6 +183,7 @@
 		CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */; };
 		CEE330142A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */; };
 		CEE6C9EF2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */; };
+		CEE6C9F92AA83AA3003B92ED /* 162. Find Peak Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */; };
 		CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */; };
 		CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */; };
 /* End PBXBuildFile section */
@@ -377,6 +378,7 @@
 		CEE1F60B2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102. Binary Tree Level Order Traversal.swift"; sourceTree = "<group>"; };
 		CEE330132A19FEDF00C8CEE0 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
 		CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "160. Intersection of Two Linked Lists.swift"; sourceTree = "<group>"; };
+		CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "162. Find Peak Element.swift"; sourceTree = "<group>"; };
 		CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 		CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -461,6 +463,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */,
 				CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */,
 				CE2435E52AA56CAD0057BC10 /* 155. Min Stack.swift */,
 				CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */,
@@ -664,6 +667,7 @@
 				CEB026CA2A70DCC700AF659A /* 11505.swift in Sources */,
 				CE247EE52A8107120002660A /* 125. Valid Palindrome.swift in Sources */,
 				CE4BCF8A29B4C98E00D40AAB /* 60. Permutation Sequence.swift in Sources */,
+				CEE6C9F92AA83AA3003B92ED /* 162. Find Peak Element.swift in Sources */,
 				CE4BCF7C29B4C98E00D40AAB /* 61. Rotate List.swift in Sources */,
 				CE4BCF9629B4C98E00D40AAB /* 12. Integer to Roman.swift in Sources */,
 				CE4BCF8F29B4C98E00D40AAB /* 37. Sudoku Solver .swift in Sources */,
