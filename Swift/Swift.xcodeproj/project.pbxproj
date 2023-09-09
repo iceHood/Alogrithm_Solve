@@ -187,6 +187,7 @@
 		CEE6C9F92AA83AA3003B92ED /* 162. Find Peak Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */; };
 		CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */; };
 		CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */; };
+		CEEF61212AAC933C00350EBA /* 165. Compare Version Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -383,6 +384,7 @@
 		CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "162. Find Peak Element.swift"; sourceTree = "<group>"; };
 		CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 		CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
+		CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "165. Compare Version Numbers.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -465,6 +467,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */,
 				CEDF8E1B2AAAA99600B88D0B /* 164. Maximum Gap.swift */,
 				CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */,
 				CEE6C9EE2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift */,
@@ -841,6 +844,7 @@
 				CE4BCF7129B4C98E00D40AAB /* 64. Minimum Path Sum.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 				CE089BEE2A87B59B00CE710E /* 132. Palindrome Partitioning II.swift in Sources */,
+				CEEF61212AAC933C00350EBA /* 165. Compare Version Numbers.swift in Sources */,
 				CEE1F60C2A09CFAA00C1A7DA /* 102. Binary Tree Level Order Traversal.swift in Sources */,
 				CE4BCF7029B4C98E00D40AAB /* 44. Wildcard Matching.swift in Sources */,
 				CE4BCF8329B4C98E00D40AAB /* 27. Remove Element.swift in Sources */,
