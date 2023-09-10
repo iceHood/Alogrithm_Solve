@@ -188,6 +188,7 @@
 		CEE7E78529D660410011FEE3 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */; };
 		CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */; };
 		CEEF61212AAC933C00350EBA /* 165. Compare Version Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */; };
+		CEEF61232AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -385,6 +386,7 @@
 		CEE7E78429D660410011FEE3 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 		CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "165. Compare Version Numbers.swift"; sourceTree = "<group>"; };
+		CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input Array Is Sorted.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -467,6 +469,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */,
 				CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */,
 				CEDF8E1B2AAAA99600B88D0B /* 164. Maximum Gap.swift */,
 				CEE6C9F82AA83AA3003B92ED /* 162. Find Peak Element.swift */,
@@ -694,6 +697,7 @@
 				CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				CE34E02629DE4A5E002C9B72 /* 96. Unique Binary Search Trees.swift in Sources */,
 				CED292AD29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
+				CEEF61232AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */,
 				CE089BEC2A866D3800CE710E /* 131. Palindrome Partitioning.swift in Sources */,
 				CE4BCF9B29B4C98E00D40AAB /* 66. Plus One.swift in Sources */,
 				CE9D85412A5FAB8200492BC4 /* 16724.swift in Sources */,
