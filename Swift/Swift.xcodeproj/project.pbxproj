@@ -113,6 +113,7 @@
 		CE4BCF9F29B4C98E00D40AAB /* 50. Pow(x, n) .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 		CE4C369B2A45467A00ECD28A /* 1208.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4C369A2A45467A00ECD28A /* 1208.swift */; };
+		CE5D9B372AAEA59600691D1D /* 168. Excel Sheet Column Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */; };
 		CE5FC3372A4088BD0019D702 /* 1766.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5FC3362A4088BD0019D702 /* 1766.swift */; };
 		CE6125272A051E370091AE2A /* 7579.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125262A051E370091AE2A /* 7579.swift */; };
 		CE6125292A0637660091AE2A /* 2342.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6125282A0637660091AE2A /* 2342.swift */; };
@@ -311,6 +312,7 @@
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE4C369A2A45467A00ECD28A /* 1208.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1208.swift; sourceTree = "<group>"; };
+		CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title.swift"; sourceTree = "<group>"; };
 		CE5FC3362A4088BD0019D702 /* 1766.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1766.swift; sourceTree = "<group>"; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
 		CE6125282A0637660091AE2A /* 2342.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2342.swift; sourceTree = "<group>"; };
@@ -469,6 +471,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */,
 				CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */,
 				CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */,
 				CEDF8E1B2AAAA99600B88D0B /* 164. Maximum Gap.swift */,
@@ -747,6 +750,7 @@
 				CE39DDB22A1C757B0005D489 /* 112. Path Sum.swift in Sources */,
 				CE91EB3D29C584A600F1005A /* 79. Word Search.swift in Sources */,
 				CEE019D12A98EA92003B733B /* 145. Binary Tree Postorder Traversal.swift in Sources */,
+				CE5D9B372AAEA59600691D1D /* 168. Excel Sheet Column Title.swift in Sources */,
 				CEE6C9EF2AA6B85B003B92ED /* 160. Intersection of Two Linked Lists.swift in Sources */,
 				CE2AE7A62A6D3C07003E7FAF /* 2042.swift in Sources */,
 				CE4B855B29B5754D00BBFC26 /* 67. Add Binary.swift in Sources */,
