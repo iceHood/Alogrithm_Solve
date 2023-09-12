@@ -26,6 +26,7 @@
 		CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
 		CE19AC282A5BD6A000B84020 /* 13460.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC272A5BD6A000B84020 /* 13460.swift */; };
 		CE19AC5C2A5CF2FA00B84020 /* 27172.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19AC5B2A5CF2FA00B84020 /* 27172.swift */; };
+		CE226EAB2AAFE811009B39B8 /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */; };
 		CE2435D72AA01F6E0057BC10 /* 151. Reverse Words in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */; };
 		CE2435D92AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */; };
 		CE2435DB2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */; };
@@ -224,6 +225,7 @@
 		CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
 		CE19AC272A5BD6A000B84020 /* 13460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13460.swift; sourceTree = "<group>"; };
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
+		CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
 		CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151. Reverse Words in a String.swift"; sourceTree = "<group>"; };
 		CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "152. Maximum Product Subarray.swift"; sourceTree = "<group>"; };
 		CE2435DA2AA2D3C60057BC10 /* 153. Find Minimum in Rotated Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "153. Find Minimum in Rotated Sorted Array.swift"; sourceTree = "<group>"; };
@@ -471,6 +473,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */,
 				CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */,
 				CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */,
 				CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */,
@@ -695,6 +698,7 @@
 				CE4B855D29B7598200BBFC26 /* 68. Text Justification.swift in Sources */,
 				CE39DDE02A1DFE3E0005D489 /* 113. Path Sum II.swift in Sources */,
 				CE7E88ED2A5266AB0018431A /* 9328.swift in Sources */,
+				CE226EAB2AAFE811009B39B8 /* 169. Majority Element.swift in Sources */,
 				CE41D9E02A773D1F0061D4D2 /* 120. Triangle.swift in Sources */,
 				CE4BCF9C29B4C98E00D40AAB /* 29FAIL.swift in Sources */,
 				CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
