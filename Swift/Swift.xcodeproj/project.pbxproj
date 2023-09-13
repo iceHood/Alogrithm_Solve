@@ -137,6 +137,7 @@
 		CE81EE7429E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */; };
 		CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */; };
 		CE83D69E2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */; };
+		CE8AEB552AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */; };
 		CE8B42512A44077D00744262 /* 2143.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8B42502A44077D00744262 /* 2143.swift */; };
 		CE8D50C32A4179E00010E7B0 /* 9252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8D50C22A4179E00010E7B0 /* 9252.swift */; };
 		CE9050172A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */; };
@@ -337,6 +338,7 @@
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "171. Excel Sheet Column Number.swift"; sourceTree = "<group>"; };
 		CE8B42502A44077D00744262 /* 2143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2143.swift; sourceTree = "<group>"; };
 		CE8D50C22A4179E00010E7B0 /* 9252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9252.swift; sourceTree = "<group>"; };
 		CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. Populating Next Right Pointers in Each Node.swift"; sourceTree = "<group>"; };
@@ -473,6 +475,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */,
 				CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */,
 				CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */,
 				CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */,
@@ -712,6 +715,7 @@
 				CE4BCF8729B4C98E00D40AAB /* 55. Jump Game.swift in Sources */,
 				CE4BCF8129B4C98E00D40AAB /* 65. Valid Number.swift in Sources */,
 				CE4BCF8C29B4C98E00D40AAB /* 11. Container With Most Water.swift in Sources */,
+				CE8AEB552AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift in Sources */,
 				CED612C929BF544A006E2EE1 /* 74. Search a 2D Matrix.swift in Sources */,
 				CE9D853E2A59C29000492BC4 /* 12100.swift in Sources */,
 				CE2435D92AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift in Sources */,
