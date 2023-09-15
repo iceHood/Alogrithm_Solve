@@ -138,6 +138,7 @@
 		CE8304C62A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */; };
 		CE83D69E2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */; };
 		CE8AEB552AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */; };
+		CE8AEB592AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */; };
 		CE8B42512A44077D00744262 /* 2143.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8B42502A44077D00744262 /* 2143.swift */; };
 		CE8D50C32A4179E00010E7B0 /* 9252.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8D50C22A4179E00010E7B0 /* 9252.swift */; };
 		CE9050172A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */; };
@@ -339,6 +340,7 @@
 		CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "171. Excel Sheet Column Number.swift"; sourceTree = "<group>"; };
+		CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "172. Factorial Trailing Zeroes.swift"; sourceTree = "<group>"; };
 		CE8B42502A44077D00744262 /* 2143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2143.swift; sourceTree = "<group>"; };
 		CE8D50C22A4179E00010E7B0 /* 9252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9252.swift; sourceTree = "<group>"; };
 		CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. Populating Next Right Pointers in Each Node.swift"; sourceTree = "<group>"; };
@@ -475,6 +477,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */,
 				CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */,
 				CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */,
 				CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */,
@@ -796,6 +799,7 @@
 				CED676122A53AF5D0040531F /* 10942.swift in Sources */,
 				CE4BCF7629B4C98E00D40AAB /* 23. Merge k Sorted Lists.swift in Sources */,
 				CE18B12F2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
+				CE8AEB592AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift in Sources */,
 				CE4BCF9129B4C98E00D40AAB /* 54. Spiral Matrix.swift in Sources */,
 				CE089BF02A8A1B9D00CE710E /* 133. Clone Graph.swift in Sources */,
 				CE9D858D2A60FB2700492BC4 /* 20303.swift in Sources */,
