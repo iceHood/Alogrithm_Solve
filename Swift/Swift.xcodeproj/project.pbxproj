@@ -193,6 +193,7 @@
 		CEEC282C2A0250FE00CFE4DA /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */; };
 		CEEF61212AAC933C00350EBA /* 165. Compare Version Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */; };
 		CEEF61232AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */; };
+		CEEF61252AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -395,6 +396,7 @@
 		CEEC282B2A0250FE00CFE4DA /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "165. Compare Version Numbers.swift"; sourceTree = "<group>"; };
 		CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input Array Is Sorted.swift"; sourceTree = "<group>"; };
+		CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "173. Binary Search Tree Iterator.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -477,6 +479,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */,
 				CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */,
 				CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */,
 				CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */,
@@ -834,6 +837,7 @@
 				CE680F0C2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift in Sources */,
 				CEC91B2329CD644E00993657 /* 85. Maximal Rectangle.swift in Sources */,
 				CE4BCF6729B4C98E00D40AAB /* 12851.swift in Sources */,
+				CEEF61252AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift in Sources */,
 				CE4C369B2A45467A00ECD28A /* 1208.swift in Sources */,
 				CE4BCF6E29B4C98E00D40AAB /* 48. Rotate Image .swift in Sources */,
 				CE96333E2A55333C009D75C6 /* 2473.swift in Sources */,
