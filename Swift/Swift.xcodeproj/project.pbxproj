@@ -194,6 +194,7 @@
 		CEEF61212AAC933C00350EBA /* 165. Compare Version Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */; };
 		CEEF61232AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */; };
 		CEEF61252AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */; };
+		CEEF61272AB7059300350EBA /* 187. Repeated DNA Sequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -397,6 +398,7 @@
 		CEEF61202AAC933C00350EBA /* 165. Compare Version Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "165. Compare Version Numbers.swift"; sourceTree = "<group>"; };
 		CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input Array Is Sorted.swift"; sourceTree = "<group>"; };
 		CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "173. Binary Search Tree Iterator.swift"; sourceTree = "<group>"; };
+		CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "187. Repeated DNA Sequences.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -479,6 +481,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */,
 				CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */,
 				CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */,
 				CE8AEB542AB171FA00DB5B90 /* 171. Excel Sheet Column Number.swift */,
@@ -808,6 +811,7 @@
 				CE9D858D2A60FB2700492BC4 /* 20303.swift in Sources */,
 				CE72066929D26ED700C7CB0A /* 90. Subsets II.swift in Sources */,
 				CE680F082A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift in Sources */,
+				CEEF61272AB7059300350EBA /* 187. Repeated DNA Sequences.swift in Sources */,
 				CEAF83582A4BC145007C7862 /* 2166.swift in Sources */,
 				CE6E6AC529B87584002ECE48 /* 69. Sqrt(x).swift in Sources */,
 				CE4BCF7D29B4C98E00D40AAB /* 45. Jump Game II .swift in Sources */,
