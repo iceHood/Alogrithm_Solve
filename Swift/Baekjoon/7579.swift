@@ -19,26 +19,26 @@
  (출력1)
  6
  */
-//let read1 = readLine()!.split(separator: " ")
-//let 메모리들 = [0] + readLine()!.split(separator: " ").map { Int($0)! }
-//let 비용들 = [0] + readLine()!.split(separator: " ").map { Int($0)! }
-//
-//let N = Int(read1[0])!, M = Int(read1[1])!
-//var dp = [[Int]](repeating: [Int](repeating: 0, count: 10001), count: 101)
-//let sumOfCosts = 비용들.reduce(0) { partialResult, nums in
-//    partialResult + nums
-//}
-//for i in 1...N {
-//    for t in 0...sumOfCosts {
-//        if t - 비용들[i] >= 0 {
-//            dp[i][t] = max(dp[i][t], 메모리들[i] + dp[i-1][t-비용들[i]])
-//        }
-//        dp[i][t] = max(dp[i][t], dp[i-1][t])
-//    }
-//}
-//for i in 0...sumOfCosts {
-//    if dp[N][i] >= M {
-//        print(i)
-//        break
-//    }
-//}
+let read1 = readLine()!.split(separator: " ")
+let 메모리들 = [0] + readLine()!.split(separator: " ").map { Int($0)! }
+let 비용들 = [0] + readLine()!.split(separator: " ").map { Int($0)! }
+
+let N = Int(read1[0])!, M = Int(read1[1])!
+var dp = [[Int]](repeating: [Int](repeating: 0, count: 10001), count: 101)
+let sumOfCosts = 비용들.reduce(0) { partialResult, nums in
+    partialResult + nums
+}
+for i in 1...N {
+    for t in 0...sumOfCosts {
+        if t - 비용들[i] >= 0 {
+            dp[i][t] = max(dp[i][t], 메모리들[i] + dp[i-1][t-비용들[i]])
+        }
+        dp[i][t] = max(dp[i][t], dp[i-1][t])
+    }
+}
+for i in 0...sumOfCosts {
+    if dp[N][i] >= M {
+        print(i)
+        break
+    }
+}

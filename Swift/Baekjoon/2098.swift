@@ -1,31 +1,31 @@
 
-//let N = Int(readLine()!)!
-//var costs = [[Int]](repeating: [], count: N)
-//for i in 0..<N {
-//    costs[i] = readLine()!.split(separator: " ").map { Int($0)! }
-//}
-//
-//var dp = [[Int]](repeating: [Int](repeating: -1, count: 1<<N), count: N)
-//let stopStatus = 1 << N - 1
-//
-//func dfs(_ nowPos: Int, _ nowStatus: Int) -> Int {
-//    if nowStatus == stopStatus {
-//        if costs[nowPos][0] == 0 { return 987654321 } // case: Cannot go to position 0
-//        else { return costs[nowPos][0] } // case: Can go to position 0
-//    }
-//
-//    if dp[nowPos][nowStatus] != -1 { return dp[nowPos][nowStatus] } // Already visited (Memoization)
-//    dp[nowPos][nowStatus] = 987654321 // Not visited -> start with high costs
-//
-//    for i in 0..<N {
-//        if costs[nowPos][i] == 0 { continue } // now -> now: Cannot go
-//        if nowStatus & 1 << i == 1 << i { continue } // Already visited
-//        dp[nowPos][nowStatus] = min(dp[nowPos][nowStatus], costs[nowPos][i] + dfs(i, nowStatus | 1 << i))
-//    }
-//    return dp[nowPos][nowStatus]
-//}
-//
-//print(dfs(0, 1))
+let N = Int(readLine()!)!
+var costs = [[Int]](repeating: [], count: N)
+for i in 0..<N {
+    costs[i] = readLine()!.split(separator: " ").map { Int($0)! }
+}
+
+var dp = [[Int]](repeating: [Int](repeating: -1, count: 1<<N), count: N)
+let stopStatus = 1 << N - 1
+
+func dfs(_ nowPos: Int, _ nowStatus: Int) -> Int {
+    if nowStatus == stopStatus {
+        if costs[nowPos][0] == 0 { return 987654321 } // case: Cannot go to position 0
+        else { return costs[nowPos][0] } // case: Can go to position 0
+    }
+
+    if dp[nowPos][nowStatus] != -1 { return dp[nowPos][nowStatus] } // Already visited (Memoization)
+    dp[nowPos][nowStatus] = 987654321 // Not visited -> start with high costs
+
+    for i in 0..<N {
+        if costs[nowPos][i] == 0 { continue } // now -> now: Cannot go
+        if nowStatus & 1 << i == 1 << i { continue } // Already visited
+        dp[nowPos][nowStatus] = min(dp[nowPos][nowStatus], costs[nowPos][i] + dfs(i, nowStatus | 1 << i))
+    }
+    return dp[nowPos][nowStatus]
+}
+
+print(dfs(0, 1))
 /**
  최종목표: 거리의 최소 합을 구하는 것 -> dp에 대한 값이 거리의 최소 합이 되어야함
  dp의 속성 정의:
