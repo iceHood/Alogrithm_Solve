@@ -132,6 +132,7 @@
 		CE4BCF6629B4C98E00D40AAB /* 50. Pow(x, n) .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "50. Pow(x, n) .swift"; sourceTree = "<group>"; };
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE4C369A2A45467A00ECD28A /* 1208.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1208.swift; sourceTree = "<group>"; };
+		CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "190. Reverse Bits.swift"; sourceTree = "<group>"; };
 		CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title.swift"; sourceTree = "<group>"; };
 		CE5FC3362A4088BD0019D702 /* 1766.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1766.swift; sourceTree = "<group>"; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
@@ -297,6 +298,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */,
 				CEFC89EA2AB9363B009B8AF5 /* 189. Rotate Array.swift */,
 				CEFC89E82AB7E198009B8AF5 /* 188. Best Time to Buy and Sell Stock IV.swift */,
 				CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */,
