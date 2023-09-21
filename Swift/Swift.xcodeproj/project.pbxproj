@@ -216,6 +216,7 @@
 		CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "187. Repeated DNA Sequences.swift"; sourceTree = "<group>"; };
 		CEFC89E82AB7E198009B8AF5 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		CEFC89EA2AB9363B009B8AF5 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
+		CEFE19852ABC6DA400D5D2CA /* 191. Number of 1 Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "191. Number of 1 Bits.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -298,6 +299,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEFE19852ABC6DA400D5D2CA /* 191. Number of 1 Bits.swift */,
 				CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */,
 				CEFC89EA2AB9363B009B8AF5 /* 189. Rotate Array.swift */,
 				CEFC89E82AB7E198009B8AF5 /* 188. Best Time to Buy and Sell Stock IV.swift */,
