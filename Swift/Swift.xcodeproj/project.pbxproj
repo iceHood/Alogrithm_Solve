@@ -40,6 +40,7 @@
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
+		CE147FAA2ABD4ACD0031ACAE /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
 		CE18B12E2A4319A7009E23D5 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
 		CE19AC272A5BD6A000B84020 /* 13460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13460.swift; sourceTree = "<group>"; };
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
@@ -299,6 +300,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE147FAA2ABD4ACD0031ACAE /* 198. House Robber.swift */,
 				CEFE19852ABC6DA400D5D2CA /* 191. Number of 1 Bits.swift */,
 				CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */,
 				CEFC89EA2AB9363B009B8AF5 /* 189. Rotate Array.swift */,
