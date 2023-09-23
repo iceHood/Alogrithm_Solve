@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CE9CAD4F2ABFAF7500630AD4 /* 199. Binary Tree Right Side View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -165,6 +166,7 @@
 		CE9099302A4707B700E0E19D /* 1562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1562.swift; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
 		CE96333D2A55333C009D75C6 /* 2473.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2473.swift; sourceTree = "<group>"; };
+		CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199. Binary Tree Right Side View.swift"; sourceTree = "<group>"; };
 		CE9D853D2A59C29000492BC4 /* 12100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12100.swift; sourceTree = "<group>"; };
 		CE9D85402A5FAB8200492BC4 /* 16724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16724.swift; sourceTree = "<group>"; };
 		CE9D858C2A60FB2700492BC4 /* 20303.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20303.swift; sourceTree = "<group>"; };
@@ -300,6 +302,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */,
 				CE147FAA2ABD4ACD0031ACAE /* 198. House Robber.swift */,
 				CEFE19852ABC6DA400D5D2CA /* 191. Number of 1 Bits.swift */,
 				CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */,
@@ -513,6 +516,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE9CAD4F2ABFAF7500630AD4 /* 199. Binary Tree Right Side View.swift in Sources */,
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
