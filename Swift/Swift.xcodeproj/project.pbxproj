@@ -140,6 +140,7 @@
 		CE6125282A0637660091AE2A /* 2342.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2342.swift; sourceTree = "<group>"; };
 		CE62FB052AC10AE900F27256 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
 		CE62FB0B2AC265A400F27256 /* 201. Bitwise AND of Numbers Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "201. Bitwise AND of Numbers Range.swift"; sourceTree = "<group>"; };
+		CE62FB112AC3E76C00F27256 /* 202. Happy Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "202. Happy Number.swift"; sourceTree = "<group>"; };
 		CE662C672A494EF300DB1EF5 /* 1806.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1806.swift; sourceTree = "<group>"; };
 		CE6775C72A0E14AF00ABE0C5 /* 11049.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11049.swift; sourceTree = "<group>"; };
 		CE680F052A7265E000F29DC5 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
@@ -303,6 +304,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE62FB112AC3E76C00F27256 /* 202. Happy Number.swift */,
 				CE62FB0B2AC265A400F27256 /* 201. Bitwise AND of Numbers Range.swift */,
 				CE62FB052AC10AE900F27256 /* 200. Number of Islands.swift */,
 				CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */,
