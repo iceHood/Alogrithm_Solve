@@ -169,6 +169,7 @@
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
 		CE96333D2A55333C009D75C6 /* 2473.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2473.swift; sourceTree = "<group>"; };
 		CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199. Binary Tree Right Side View.swift"; sourceTree = "<group>"; };
+		CE9CAD502AC5557000630AD4 /* 203. Remove Linked List Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements.swift"; sourceTree = "<group>"; };
 		CE9D853D2A59C29000492BC4 /* 12100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12100.swift; sourceTree = "<group>"; };
 		CE9D85402A5FAB8200492BC4 /* 16724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16724.swift; sourceTree = "<group>"; };
 		CE9D858C2A60FB2700492BC4 /* 20303.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20303.swift; sourceTree = "<group>"; };
@@ -304,6 +305,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE9CAD502AC5557000630AD4 /* 203. Remove Linked List Elements.swift */,
 				CE62FB112AC3E76C00F27256 /* 202. Happy Number.swift */,
 				CE62FB0B2AC265A400F27256 /* 201. Bitwise AND of Numbers Range.swift */,
 				CE62FB052AC10AE900F27256 /* 200. Number of Islands.swift */,
