@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		CE09DE2D29DBA2A900FDAEC9 /* 1007-fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1007-fail.cpp"; sourceTree = "<group>"; };
+		CE3D736A2ACD4829007EAC5A /* 14940.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14940.cpp; sourceTree = "<group>"; };
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1987.cpp; sourceTree = "<group>"; };
 		CECA9B4E29DA510B0070D8BA /* 1005.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1005.cpp; sourceTree = "<group>"; };
@@ -244,6 +245,7 @@
 				CEDDF37929B4CA1C00B44EFE /* 2579.cpp */,
 				CEDDF3A429B4CA1C00B44EFE /* 2606.cpp */,
 				CEDDF38829B4CA1C00B44EFE /* 2630.cpp */,
+				CE3D736A2ACD4829007EAC5A /* 14940.cpp */,
 				CEDDF3A629B4CA1C00B44EFE /* 2638.cpp */,
 				CEDDF3C629B4CA1C00B44EFE /* 2667.cpp */,
 				CEDDF37B29B4CA1C00B44EFE /* 2747.cpp */,
