@@ -66,6 +66,7 @@
 		CE38E67A2A99F9C8003215E4 /* 146. LRU Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "146. LRU Cache.swift"; sourceTree = "<group>"; };
 		CE38E67C2A9CD09A003215E4 /* 147. Insertion Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. Insertion Sort List.swift"; sourceTree = "<group>"; };
 		CE38E67E2A9D7925003215E4 /* 148. Sort List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "148. Sort List.swift"; sourceTree = "<group>"; };
+		CE3914E72ACF8C95000EC200 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		CE39DDB12A1C757B0005D489 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		CE39DDDF2A1DFE3E0005D489 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		CE3A6189296557E30012280D /* Algorithm_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -307,6 +308,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE3914E72ACF8C95000EC200 /* 206. Reverse Linked List.swift */,
 				CE9CAD6C2ACC027A00630AD4 /* 205. Isomorphic Strings.swift */,
 				CE9CAD6A2ACACCE700630AD4 /* 204. Count Primes.swift */,
 				CE9CAD502AC5557000630AD4 /* 203. Remove Linked List Elements.swift */,
