@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CE9CAD702AEA767D00630AD4 /* 207. Course Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9CAD6E2AEA767300630AD4 /* 207. Course Schedule.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -173,6 +174,7 @@
 		CE9CAD502AC5557000630AD4 /* 203. Remove Linked List Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements.swift"; sourceTree = "<group>"; };
 		CE9CAD6A2ACACCE700630AD4 /* 204. Count Primes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. Count Primes.swift"; sourceTree = "<group>"; };
 		CE9CAD6C2ACC027A00630AD4 /* 205. Isomorphic Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. Isomorphic Strings.swift"; sourceTree = "<group>"; };
+		CE9CAD6E2AEA767300630AD4 /* 207. Course Schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "207. Course Schedule.swift"; sourceTree = "<group>"; };
 		CE9D853D2A59C29000492BC4 /* 12100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12100.swift; sourceTree = "<group>"; };
 		CE9D85402A5FAB8200492BC4 /* 16724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16724.swift; sourceTree = "<group>"; };
 		CE9D858C2A60FB2700492BC4 /* 20303.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20303.swift; sourceTree = "<group>"; };
@@ -308,6 +310,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE9CAD6E2AEA767300630AD4 /* 207. Course Schedule.swift */,
 				CE3914E72ACF8C95000EC200 /* 206. Reverse Linked List.swift */,
 				CE9CAD6C2ACC027A00630AD4 /* 205. Isomorphic Strings.swift */,
 				CE9CAD6A2ACACCE700630AD4 /* 204. Count Primes.swift */,
@@ -531,6 +534,7 @@
 			files = (
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
+				CE9CAD702AEA767D00630AD4 /* 207. Course Schedule.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
