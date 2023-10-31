@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE0DC6A92AF090CF006828AF /* 211. Design Add and Search Words Data Structure.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */; };
 		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 /* End PBXBuildFile section */
@@ -36,6 +37,7 @@
 		CE089BF52A90FD9B00CE710E /* 138. Copy List with Random Pointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "138. Copy List with Random Pointer.swift"; sourceTree = "<group>"; };
 		CE089BF72A91FCF600CE710E /* 139. Word Break.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "139. Word Break.swift"; sourceTree = "<group>"; };
 		CE09DE2F29DD7A2800FDAEC9 /* 95. Unique Binary Search Trees II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95. Unique Binary Search Trees II.swift"; sourceTree = "<group>"; };
+		CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "211. Design Add and Search Words Data Structure.swift"; sourceTree = "<group>"; };
 		CE0F601D2A665F8F0085D110 /* 17387.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17387.swift; sourceTree = "<group>"; };
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
@@ -312,6 +314,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */,
 				CE1F570D2AEF488200A27E7B /* 210. Course Schedule II.swift */,
 				CED626FF2AEE718400376C0C /* 209. Minimum Size Subarray Sum.swift */,
 				CE71199D2AEB55EA0095BCE9 /* 208. Implement Trie (Prefix Tree).swift */,
@@ -539,6 +542,7 @@
 			files = (
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
+				CE0DC6A92AF090CF006828AF /* 211. Design Add and Search Words Data Structure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
