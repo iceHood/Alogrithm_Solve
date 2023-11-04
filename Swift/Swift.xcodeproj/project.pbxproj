@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CE66582D2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -147,6 +148,7 @@
 		CE62FB0B2AC265A400F27256 /* 201. Bitwise AND of Numbers Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "201. Bitwise AND of Numbers Range.swift"; sourceTree = "<group>"; };
 		CE62FB112AC3E76C00F27256 /* 202. Happy Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "202. Happy Number.swift"; sourceTree = "<group>"; };
 		CE662C672A494EF300DB1EF5 /* 1806.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1806.swift; sourceTree = "<group>"; };
+		CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1503. Last Moment Before All Ants Fall Out of a Plank.swift"; sourceTree = "<group>"; };
 		CE6775C72A0E14AF00ABE0C5 /* 11049.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11049.swift; sourceTree = "<group>"; };
 		CE680F052A7265E000F29DC5 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		CE680F072A75FD8000F29DC5 /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
@@ -315,6 +317,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */,
 				CE0DC6D22AF476AF006828AF /* 1441. Build an Array With Stack Operations .swift */,
 				CE0DC6AA2AF1F31E006828AF /* 501. Find Mode in Binary Search Tree.swift */,
 				CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */,
@@ -544,6 +547,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
+				CE66582D2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
