@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
-		CE66582D2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -78,6 +77,7 @@
 		CE3D5CBB2A69189100DCBA13 /* 13334.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13334.swift; sourceTree = "<group>"; };
 		CE41D9DF2A773D1F0061D4D2 /* 120. Triangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "120. Triangle.swift"; sourceTree = "<group>"; };
 		CE41D9E32A788B2D0061D4D2 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
+		CE49D4532AF7672B00053962 /* 1535. Find the Winner of an Array Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1535. Find the Winner of an Array Game.swift"; sourceTree = "<group>"; };
 		CE4B855A29B5754D00BBFC26 /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		CE4B855C29B7598200BBFC26 /* 68. Text Justification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68. Text Justification.swift"; sourceTree = "<group>"; };
 		CE4B855E29BCB12700BBFC26 /* 72. Edit Distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "72. Edit Distance.swift"; sourceTree = "<group>"; };
@@ -317,6 +317,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE49D4532AF7672B00053962 /* 1535. Find the Winner of an Array Game.swift */,
 				CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */,
 				CE0DC6D22AF476AF006828AF /* 1441. Build an Array With Stack Operations .swift */,
 				CE0DC6AA2AF1F31E006828AF /* 501. Find Mode in Binary Search Tree.swift */,
@@ -547,7 +548,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
-				CE66582D2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
