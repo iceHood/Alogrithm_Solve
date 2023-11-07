@@ -166,6 +166,7 @@
 		CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1845. Seat Reservation Manager.swift"; sourceTree = "<group>"; };
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
+		CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1921. Eliminate Maximum Number of Monsters.swift"; sourceTree = "<group>"; };
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
 		CE83D69D2A1AECEF00492517 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
@@ -318,6 +319,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */,
 				CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */,
 				CE49D4532AF7672B00053962 /* 1535. Find the Winner of an Array Game.swift */,
 				CE66582C2AF60FA600275F93 /* 1503. Last Moment Before All Ants Fall Out of a Plank.swift */,
