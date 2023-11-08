@@ -163,6 +163,7 @@
 		CE72A0452A67BAC90071398A /* 2533.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2533.swift; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
+		CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2849. Determine if a Cell Is Reachable at a Given Time.swift"; sourceTree = "<group>"; };
 		CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1845. Seat Reservation Manager.swift"; sourceTree = "<group>"; };
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
@@ -319,6 +320,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */,
 				CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */,
 				CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */,
 				CE49D4532AF7672B00053962 /* 1535. Find the Winner of an Array Game.swift */,
