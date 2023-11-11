@@ -165,6 +165,7 @@
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
 		CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2849. Determine if a Cell Is Reachable at a Given Time.swift"; sourceTree = "<group>"; };
 		CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1845. Seat Reservation Manager.swift"; sourceTree = "<group>"; };
+		CE75300C2AFFCAB4005FCB6B /* 217. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate.swift"; sourceTree = "<group>"; };
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
 		CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1921. Eliminate Maximum Number of Monsters.swift"; sourceTree = "<group>"; };
@@ -330,6 +331,7 @@
 				CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */,
 				CE1F570D2AEF488200A27E7B /* 210. Course Schedule II.swift */,
 				CED626FF2AEE718400376C0C /* 209. Minimum Size Subarray Sum.swift */,
+				CE75300C2AFFCAB4005FCB6B /* 217. Contains Duplicate.swift */,
 				CE71199D2AEB55EA0095BCE9 /* 208. Implement Trie (Prefix Tree).swift */,
 				CE9CAD6E2AEA767300630AD4 /* 207. Course Schedule.swift */,
 				CE3914E72ACF8C95000EC200 /* 206. Reverse Linked List.swift */,
