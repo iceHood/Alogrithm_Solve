@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCF3F29B4C98E00D40AAB /* enum에 관한 고찰.swift */; };
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -166,6 +165,7 @@
 		CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2849. Determine if a Cell Is Reachable at a Given Time.swift"; sourceTree = "<group>"; };
 		CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1845. Seat Reservation Manager.swift"; sourceTree = "<group>"; };
 		CE75300C2AFFCAB4005FCB6B /* 217. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate.swift"; sourceTree = "<group>"; };
+		CE75300D2B010234005FCB6B /* 215. Kth Largest Element in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "215. Kth Largest Element in an Array.swift"; sourceTree = "<group>"; };
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
 		CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1921. Eliminate Maximum Number of Monsters.swift"; sourceTree = "<group>"; };
@@ -321,6 +321,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE75300D2B010234005FCB6B /* 215. Kth Largest Element in an Array.swift */,
 				CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */,
 				CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */,
 				CE7530092AF912DF005FCB6B /* 1845. Seat Reservation Manager.swift */,
@@ -555,7 +556,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE4BCF7829B4C98E00D40AAB /* enum에 관한 고찰.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
