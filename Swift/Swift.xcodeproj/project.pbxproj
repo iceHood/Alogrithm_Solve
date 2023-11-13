@@ -38,6 +38,7 @@
 		CE0DC6A62AF090C2006828AF /* 211. Design Add and Search Words Data Structure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "211. Design Add and Search Words Data Structure.swift"; sourceTree = "<group>"; };
 		CE0DC6AA2AF1F31E006828AF /* 501. Find Mode in Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "501. Find Mode in Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE0DC6D22AF476AF006828AF /* 1441. Build an Array With Stack Operations .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1441. Build an Array With Stack Operations .swift"; sourceTree = "<group>"; };
+		CE0E2A602B01A8070097A329 /* 2785. Sort Vowels in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2785. Sort Vowels in a String.swift"; sourceTree = "<group>"; };
 		CE0F601D2A665F8F0085D110 /* 17387.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17387.swift; sourceTree = "<group>"; };
 		CE12D1C12A0F557F00801C5A /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
@@ -321,6 +322,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE0E2A602B01A8070097A329 /* 2785. Sort Vowels in a String.swift */,
 				CE75300D2B010234005FCB6B /* 215. Kth Largest Element in an Array.swift */,
 				CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */,
 				CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */,
