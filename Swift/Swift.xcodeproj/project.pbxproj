@@ -62,6 +62,7 @@
 		CE24A6462A519F53000285B9 /* 2623.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2623.swift; sourceTree = "<group>"; };
 		CE28710229B9A5D60036D922 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		CE28710429BAFB1D0036D922 /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
+		CE2994CA2B08EAA20051C7F1 /* 1838. Frequency of the Most Frequent Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1838. Frequency of the Most Frequent Element.swift"; sourceTree = "<group>"; };
 		CE2AE7A52A6D3C07003E7FAF /* 2042.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2042.swift; sourceTree = "<group>"; };
 		CE2BA4BF29D12CBC006614A0 /* 89. Gray Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89. Gray Code.swift"; sourceTree = "<group>"; };
 		CE31A41D2A0883E10058A811 /* 2098.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2098.swift; sourceTree = "<group>"; };
@@ -325,6 +326,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE2994CA2B08EAA20051C7F1 /* 1838. Frequency of the Most Frequent Element.swift */,
 				CE01F8632B06E9A200144E49 /* 1877. Minimize Maximum Pair Sum in Array.swift */,
 				CE01F8612B047FFE00144E49 /* 1846. Maximum Element After Decreasing and Rearranging.swift */,
 				CE0E2A622B02FFAD0097A329 /* 1930. Unique Length-3 Palindromic Subsequences.swift */,
