@@ -220,6 +220,7 @@
 		CED292AC29D8FC9200C90AD3 /* 94. Binary Tree Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. Binary Tree Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CED3E7832A57091600D0B772 /* 9466.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9466.swift; sourceTree = "<group>"; };
 		CED3E7852A57B77500D0B772 /* 12015.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12015.swift; sourceTree = "<group>"; };
+		CED523DE2B0A4ADA0090A5D7 /* 1887. Reduction Operations to Make the Array Elements Equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1887. Reduction Operations to Make the Array Elements Equal.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		CED626FF2AEE718400376C0C /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
@@ -326,6 +327,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CED523DE2B0A4ADA0090A5D7 /* 1887. Reduction Operations to Make the Array Elements Equal.swift */,
 				CE2994CA2B08EAA20051C7F1 /* 1838. Frequency of the Most Frequent Element.swift */,
 				CE01F8632B06E9A200144E49 /* 1877. Minimize Maximum Pair Sum in Array.swift */,
 				CE01F8612B047FFE00144E49 /* 1846. Maximum Element After Decreasing and Rearranging.swift */,
