@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CE732EC92B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -165,6 +166,7 @@
 		CE71199D2AEB55EA0095BCE9 /* 208. Implement Trie (Prefix Tree).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "208. Implement Trie (Prefix Tree).swift"; sourceTree = "<group>"; };
 		CE72066829D26ED700C7CB0A /* 90. Subsets II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "90. Subsets II.swift"; sourceTree = "<group>"; };
 		CE72A0452A67BAC90071398A /* 2533.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2533.swift; sourceTree = "<group>"; };
+		CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1814. Count Nice Pairs in an Array.swift"; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
 		CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2849. Determine if a Cell Is Reachable at a Given Time.swift"; sourceTree = "<group>"; };
@@ -328,6 +330,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */,
 				CEAE83392B0AE574002AFA09 /* 2391. Minimum Amount of Time to Collect Garbage.swift */,
 				CED523DE2B0A4ADA0090A5D7 /* 1887. Reduction Operations to Make the Array Elements Equal.swift */,
 				CE2994CA2B08EAA20051C7F1 /* 1838. Frequency of the Most Frequent Element.swift */,
@@ -571,6 +574,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
+				CE732EC92B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
