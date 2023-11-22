@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
-		CE732EC92B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -160,6 +159,7 @@
 		CE680F092A7BEDB100F29DC5 /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		CE680F0B2A7D342600F29DC5 /* 123. Best Time to Buy and Sell Stock III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "123. Best Time to Buy and Sell Stock III.swift"; sourceTree = "<group>"; };
 		CE6C0E3C29D854E8009F0E7E /* 93. Restore IP Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93. Restore IP Addresses.swift"; sourceTree = "<group>"; };
+		CE6D1C0B2B0D969100FC0E49 /* 1424. Diagonal Traverse II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1424. Diagonal Traverse II.swift"; sourceTree = "<group>"; };
 		CE6E6AC429B87584002ECE48 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		CE6EA18D29C207DB00F8845F /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		CE6F71C62A92EE2F002D3B61 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -330,6 +330,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE6D1C0B2B0D969100FC0E49 /* 1424. Diagonal Traverse II.swift */,
 				CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */,
 				CEAE83392B0AE574002AFA09 /* 2391. Minimum Amount of Time to Collect Garbage.swift */,
 				CED523DE2B0A4ADA0090A5D7 /* 1887. Reduction Operations to Make the Array Elements Equal.swift */,
@@ -574,7 +575,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
-				CE732EC92B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
