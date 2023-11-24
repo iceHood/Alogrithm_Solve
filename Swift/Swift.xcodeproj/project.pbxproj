@@ -27,6 +27,7 @@
 		CE01F8632B06E9A200144E49 /* 1877. Minimize Maximum Pair Sum in Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1877. Minimize Maximum Pair Sum in Array.swift"; sourceTree = "<group>"; };
 		CE042C272A5E765B007A13A2 /* 17404.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17404.swift; sourceTree = "<group>"; };
 		CE04849229DFE619007138A2 /* 97. Interleaving String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. Interleaving String.swift"; sourceTree = "<group>"; };
+		CE07E0F82B10447E00E23F09 /* 1561. Maximum Number of Coins You Can Get.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1561. Maximum Number of Coins You Can Get.swift"; sourceTree = "<group>"; };
 		CE089BE72A83AFF300CE710E /* 129. Sum Root to Leaf Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. Sum Root to Leaf Numbers.swift"; sourceTree = "<group>"; };
 		CE089BE92A8481F400CE710E /* 130. Surrounded Regions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "130. Surrounded Regions.swift"; sourceTree = "<group>"; };
 		CE089BEB2A866D3800CE710E /* 131. Palindrome Partitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partitioning.swift"; sourceTree = "<group>"; };
@@ -330,6 +331,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE07E0F82B10447E00E23F09 /* 1561. Maximum Number of Coins You Can Get.swift */,
 				CE6D1C0B2B0D969100FC0E49 /* 1424. Diagonal Traverse II.swift */,
 				CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */,
 				CEAE83392B0AE574002AFA09 /* 2391. Minimum Amount of Time to Collect Garbage.swift */,
