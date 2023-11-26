@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
-		CED523E12B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED523E02B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -227,6 +226,7 @@
 		CED3E7852A57B77500D0B772 /* 12015.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12015.swift; sourceTree = "<group>"; };
 		CED523DE2B0A4ADA0090A5D7 /* 1887. Reduction Operations to Make the Array Elements Equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1887. Reduction Operations to Make the Array Elements Equal.swift"; sourceTree = "<group>"; };
 		CED523E02B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1685. Sum of Absolute Differences in a Sorted Array.swift"; sourceTree = "<group>"; };
+		CED523E22B1349720090A5D7 /* 219. Contains Duplicate II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "219. Contains Duplicate II.swift"; sourceTree = "<group>"; };
 		CED6127029BDC48B006E2EE1 /* 73. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		CED612C829BF544A006E2EE1 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		CED626FF2AEE718400376C0C /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
@@ -333,6 +333,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CED523E22B1349720090A5D7 /* 219. Contains Duplicate II.swift */,
 				CED523E02B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift */,
 				CE07E0F82B10447E00E23F09 /* 1561. Maximum Number of Coins You Can Get.swift */,
 				CE6D1C0B2B0D969100FC0E49 /* 1424. Diagonal Traverse II.swift */,
@@ -580,7 +581,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
-				CED523E12B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
