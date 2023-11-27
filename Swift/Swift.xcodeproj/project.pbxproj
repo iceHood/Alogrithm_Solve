@@ -187,6 +187,7 @@
 		CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. Populating Next Right Pointers in Each Node.swift"; sourceTree = "<group>"; };
 		CE9099302A4707B700E0E19D /* 1562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1562.swift; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
+		CE93A6002B141D60006F24DD /* 935. Knight Dialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "935. Knight Dialer.swift"; sourceTree = "<group>"; };
 		CE96333D2A55333C009D75C6 /* 2473.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2473.swift; sourceTree = "<group>"; };
 		CE9CAD4D2ABFAF6B00630AD4 /* 199. Binary Tree Right Side View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199. Binary Tree Right Side View.swift"; sourceTree = "<group>"; };
 		CE9CAD502AC5557000630AD4 /* 203. Remove Linked List Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements.swift"; sourceTree = "<group>"; };
@@ -331,6 +332,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CE93A6002B141D60006F24DD /* 935. Knight Dialer.swift */,
 				CE07E0F82B10447E00E23F09 /* 1561. Maximum Number of Coins You Can Get.swift */,
 				CE6D1C0B2B0D969100FC0E49 /* 1424. Diagonal Traverse II.swift */,
 				CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */,
