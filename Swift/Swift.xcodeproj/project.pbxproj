@@ -233,6 +233,7 @@
 		CED626FF2AEE718400376C0C /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		CED676112A53AF5D0040531F /* 10942.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10942.swift; sourceTree = "<group>"; };
 		CED8EE4A2A0C6CAE0007AD4D /* 103. Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
+		CEDA07D32B15808D0053E46C /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		CEDF8E1B2AAAA99600B88D0B /* 164. Maximum Gap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "164. Maximum Gap.swift"; sourceTree = "<group>"; };
 		CEE019CA2A9474B9003B733B /* 142. Linked List Cycle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "142. Linked List Cycle II.swift"; sourceTree = "<group>"; };
 		CEE019CC2A95F469003B733B /* 143. Reorder List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "143. Reorder List.swift"; sourceTree = "<group>"; };
@@ -334,6 +335,7 @@
 		CE4BCF3029B4C98E00D40AAB /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				CEDA07D32B15808D0053E46C /* 216. Combination Sum III.swift */,
 				CE93A6002B141D60006F24DD /* 935. Knight Dialer.swift */,
 				CED523E22B1349720090A5D7 /* 219. Contains Duplicate II.swift */,
 				CED523E02B1226960090A5D7 /* 1685. Sum of Absolute Differences in a Sorted Array.swift */,
