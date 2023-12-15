@@ -52,6 +52,7 @@
 		CE19AC272A5BD6A000B84020 /* 13460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13460.swift; sourceTree = "<group>"; };
 		CE19AC5B2A5CF2FA00B84020 /* 27172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 27172.swift; sourceTree = "<group>"; };
 		CE1F570D2AEF488200A27E7B /* 210. Course Schedule II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "210. Course Schedule II.swift"; sourceTree = "<group>"; };
+		CE1FBAF62B2BF555008A78D8 /* 17266.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17266.swift; sourceTree = "<group>"; };
 		CE226EAA2AAFE811009B39B8 /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
 		CE2435D62AA01F6E0057BC10 /* 151. Reverse Words in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151. Reverse Words in a String.swift"; sourceTree = "<group>"; };
 		CE2435D82AA20C7D0057BC10 /* 152. Maximum Product Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "152. Maximum Product Subarray.swift"; sourceTree = "<group>"; };
@@ -287,6 +288,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE1FBAF62B2BF555008A78D8 /* 17266.swift */,
 				CED0FFCE2A7A237A00D973BA /* 1708.swift */,
 				CEB026C92A70DCC700AF659A /* 11505.swift */,
 				CEB026C32A6F63CD00AF659A /* 14725.swift */,
