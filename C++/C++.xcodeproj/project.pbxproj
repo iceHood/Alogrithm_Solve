@@ -23,6 +23,7 @@
 		CE3D736A2ACD4829007EAC5A /* 14940.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14940.cpp; sourceTree = "<group>"; };
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9CAD712AED18C900630AD4 /* 15663.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15663.cpp; sourceTree = "<group>"; };
+		CEA88CE12B3AF26700BE64BB /* 19585.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 19585.cpp; sourceTree = "<group>"; };
 		CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1987.cpp; sourceTree = "<group>"; };
 		CECA9B4E29DA510B0070D8BA /* 1005.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1005.cpp; sourceTree = "<group>"; };
 		CEDDF35729B4CA1C00B44EFE /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
@@ -309,6 +310,7 @@
 				CEDDF37429B4CA1C00B44EFE /* 15652.cpp */,
 				CEDDF36329B4CA1C00B44EFE /* 15654.cpp */,
 				CE9CAD712AED18C900630AD4 /* 15663.cpp */,
+				CEA88CE12B3AF26700BE64BB /* 19585.cpp */,
 				CEDDF35A29B4CA1C00B44EFE /* 15657.cpp */,
 				CEDDF36B29B4CA1C00B44EFE /* 15686.cpp */,
 				CEDDF37129B4CA1C00B44EFE /* 16206.cpp */,
