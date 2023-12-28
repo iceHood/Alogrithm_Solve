@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		CE09DE2D29DBA2A900FDAEC9 /* 1007-fail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1007-fail.cpp"; sourceTree = "<group>"; };
+		CE0A12AA2B3D52C200A92258 /* 1786.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1786.cpp; sourceTree = "<group>"; };
 		CE3D736A2ACD4829007EAC5A /* 14940.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14940.cpp; sourceTree = "<group>"; };
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9CAD712AED18C900630AD4 /* 15663.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15663.cpp; sourceTree = "<group>"; };
@@ -203,6 +204,7 @@
 			isa = PBXGroup;
 			children = (
 				CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */,
+				CE0A12AA2B3D52C200A92258 /* 1786.cpp */,
 				CEDDF3C729B4CA1C00B44EFE /* 1010 - not now.cpp */,
 				CEDDF3BC29B4CA1C00B44EFE /* 1043_1.cpp */,
 				CEDDF3C829B4CA1C00B44EFE /* 1043_2.cpp */,
