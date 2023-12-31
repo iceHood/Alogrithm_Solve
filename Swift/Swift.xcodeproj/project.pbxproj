@@ -188,6 +188,7 @@
 		CE8AEB582AB3E01C00DB5B90 /* 172. Factorial Trailing Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "172. Factorial Trailing Zeroes.swift"; sourceTree = "<group>"; };
 		CE8B42502A44077D00744262 /* 2143.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2143.swift; sourceTree = "<group>"; };
 		CE8D50C22A4179E00010E7B0 /* 9252.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9252.swift; sourceTree = "<group>"; };
+		CE8DAC3E2B41A5F700AC0A94 /* 14428.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14428.swift; sourceTree = "<group>"; };
 		CE9050162A23872200057B67 /* 116. Populating Next Right Pointers in Each Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. Populating Next Right Pointers in Each Node.swift"; sourceTree = "<group>"; };
 		CE9099302A4707B700E0E19D /* 1562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1562.swift; sourceTree = "<group>"; };
 		CE91EB3C29C584A600F1005A /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
@@ -291,6 +292,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE8DAC3E2B41A5F700AC0A94 /* 14428.swift */,
 				CE134AEE2B341BF20037C2FB /* 1014.swift */,
 				CE1FBAF62B2BF555008A78D8 /* 17266.swift */,
 				CED0FFCE2A7A237A00D973BA /* 1708.swift */,
