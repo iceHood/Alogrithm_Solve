@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
+		CEEF88BF2B45116100490BC7 /* 15824.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEF88BE2B45116100490BC7 /* 15824.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -255,6 +256,7 @@
 		CEEF61222AAD63DA00350EBA /* 167. Two Sum II - Input Array Is Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input Array Is Sorted.swift"; sourceTree = "<group>"; };
 		CEEF61242AB5C99900350EBA /* 173. Binary Search Tree Iterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "173. Binary Search Tree Iterator.swift"; sourceTree = "<group>"; };
 		CEEF61262AB7059300350EBA /* 187. Repeated DNA Sequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "187. Repeated DNA Sequences.swift"; sourceTree = "<group>"; };
+		CEEF88BE2B45116100490BC7 /* 15824.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15824.swift; sourceTree = "<group>"; };
 		CEFC89E82AB7E198009B8AF5 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		CEFC89EA2AB9363B009B8AF5 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		CEFDF3A62B43DCE000DFD0FB /* 16565.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16565.swift; sourceTree = "<group>"; };
@@ -293,6 +295,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CEEF88BE2B45116100490BC7 /* 15824.swift */,
 				CEFDF3A62B43DCE000DFD0FB /* 16565.swift */,
 				CE8DAC3E2B41A5F700AC0A94 /* 14428.swift */,
 				CE134AEE2B341BF20037C2FB /* 1014.swift */,
@@ -596,6 +599,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEEF88BF2B45116100490BC7 /* 15824.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
