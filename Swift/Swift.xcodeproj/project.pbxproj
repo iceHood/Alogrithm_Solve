@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE01732F2B47A46A008301ED /* 1086.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1086.swift; sourceTree = "<group>"; };
 		CE01F8612B047FFE00144E49 /* 1846. Maximum Element After Decreasing and Rearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1846. Maximum Element After Decreasing and Rearranging.swift"; sourceTree = "<group>"; };
 		CE01F8632B06E9A200144E49 /* 1877. Minimize Maximum Pair Sum in Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1877. Minimize Maximum Pair Sum in Array.swift"; sourceTree = "<group>"; };
 		CE042C272A5E765B007A13A2 /* 17404.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17404.swift; sourceTree = "<group>"; };
@@ -295,6 +296,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE01732F2B47A46A008301ED /* 1086.swift */,
 				CEEF88C02B46841200490BC7 /* 11689.swift */,
 				CEEF88BE2B45116100490BC7 /* 15824.swift */,
 				CEFDF3A62B43DCE000DFD0FB /* 16565.swift */,
