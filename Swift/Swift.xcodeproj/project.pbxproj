@@ -150,6 +150,7 @@
 		CE4BCFA029B4C9C800D40AAB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
 		CE4C369A2A45467A00ECD28A /* 1208.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1208.swift; sourceTree = "<group>"; };
 		CE4F2AE62ABAAD1D003BD0EC /* 190. Reverse Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "190. Reverse Bits.swift"; sourceTree = "<group>"; };
+		CE5B29222B4ADCB500473946 /* 1725.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1725.swift; sourceTree = "<group>"; };
 		CE5D9B362AAEA59600691D1D /* 168. Excel Sheet Column Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title.swift"; sourceTree = "<group>"; };
 		CE5FC3362A4088BD0019D702 /* 1766.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1766.swift; sourceTree = "<group>"; };
 		CE6125262A051E370091AE2A /* 7579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7579.swift; sourceTree = "<group>"; };
@@ -296,6 +297,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE5B29222B4ADCB500473946 /* 1725.swift */,
 				CE01732F2B47A46A008301ED /* 1086.swift */,
 				CEEF88C02B46841200490BC7 /* 11689.swift */,
 				CEEF88BE2B45116100490BC7 /* 15824.swift */,
