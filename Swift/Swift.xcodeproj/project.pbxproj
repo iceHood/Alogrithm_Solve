@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4BCFA029B4C9C800D40AAB /* main.swift */; };
-		CE5B29252B4C411C00473946 /* 1761.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5B29242B4C411C00473946 /* 1761.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +26,7 @@
 		CE01732F2B47A46A008301ED /* 1086.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1086.swift; sourceTree = "<group>"; };
 		CE01F8612B047FFE00144E49 /* 1846. Maximum Element After Decreasing and Rearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1846. Maximum Element After Decreasing and Rearranging.swift"; sourceTree = "<group>"; };
 		CE01F8632B06E9A200144E49 /* 1877. Minimize Maximum Pair Sum in Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1877. Minimize Maximum Pair Sum in Array.swift"; sourceTree = "<group>"; };
+		CE034C932B4CDA6A00E378D3 /* 11438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11438.swift; sourceTree = "<group>"; };
 		CE042C272A5E765B007A13A2 /* 17404.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17404.swift; sourceTree = "<group>"; };
 		CE04849229DFE619007138A2 /* 97. Interleaving String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97. Interleaving String.swift"; sourceTree = "<group>"; };
 		CE07E0F82B10447E00E23F09 /* 1561. Maximum Number of Coins You Can Get.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1561. Maximum Number of Coins You Can Get.swift"; sourceTree = "<group>"; };
@@ -299,6 +299,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE034C932B4CDA6A00E378D3 /* 11438.swift */,
 				CE5B29242B4C411C00473946 /* 1761.swift */,
 				CE5B29222B4ADCB500473946 /* 1725.swift */,
 				CE01732F2B47A46A008301ED /* 1086.swift */,
@@ -607,7 +608,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE5B29252B4C411C00473946 /* 1761.swift in Sources */,
 				CE4BCFA129B4C9C800D40AAB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
