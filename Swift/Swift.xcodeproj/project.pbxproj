@@ -50,6 +50,7 @@
 		CE12D1C32A110FE900801C5A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.swift"; sourceTree = "<group>"; };
 		CE134AEE2B341BF20037C2FB /* 1014.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1014.swift; sourceTree = "<group>"; };
 		CE13A2082B4E3CCC00922DE8 /* 2243.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2243.swift; sourceTree = "<group>"; };
+		CE13A2492B50DA7E00922DE8 /* 1305.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1305.swift; sourceTree = "<group>"; };
 		CE1462F629C6F49000DF279D /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
 		CE147FAA2ABD4ACD0031ACAE /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
 		CE17A6ED2B3F0D2E00260C8E /* 222. Count Complete Tree Nodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "222. Count Complete Tree Nodes.swift"; sourceTree = "<group>"; };
@@ -300,6 +301,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE13A2492B50DA7E00922DE8 /* 1305.swift */,
 				CE13A2082B4E3CCC00922DE8 /* 2243.swift */,
 				CE034C932B4CDA6A00E378D3 /* 11438.swift */,
 				CE5B29242B4C411C00473946 /* 1761.swift */,
