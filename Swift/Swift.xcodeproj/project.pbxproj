@@ -187,6 +187,7 @@
 		CE79E0E92A6A227400A3F68D /* 1019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1019.swift; sourceTree = "<group>"; };
 		CE7E88EC2A5266AB0018431A /* 9328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9328.swift; sourceTree = "<group>"; };
 		CE7EB8A42B52C30A009C0AB1 /* 1701.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1701.swift; sourceTree = "<group>"; };
+		CE7EB8A62B53C4FC009C0AB1 /* 4354.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4354.swift; sourceTree = "<group>"; };
 		CE8158222AF9D39300F53116 /* 1921. Eliminate Maximum Number of Monsters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1921. Eliminate Maximum Number of Monsters.swift"; sourceTree = "<group>"; };
 		CE81EE7329E1107D00DC1EA6 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 		CE8304C52A9EFE4A00DD7FBB /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
@@ -302,6 +303,7 @@
 		CE4BCF2C29B4C98E00D40AAB /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				CE7EB8A62B53C4FC009C0AB1 /* 4354.swift */,
 				CE7EB8A42B52C30A009C0AB1 /* 1701.swift */,
 				CE13A2492B50DA7E00922DE8 /* 1305.swift */,
 				CE13A2082B4E3CCC00922DE8 /* 2243.swift */,

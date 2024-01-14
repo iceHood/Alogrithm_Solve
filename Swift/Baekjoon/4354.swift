@@ -1,5 +1,6 @@
+
 func solve() {
-    func makePattern(str: [Character]) -> [Int] {
+    func findPattern(str: [Character]) -> [Int]{
         var pattern = [Int](repeating: 0, count: str.count+1)
         var i = -1
         var j = 0
@@ -15,14 +16,20 @@ func solve() {
         }
         return pattern
     }
-    let str = Array(readLine()!)
-    var result = 0
     
-    for i in 0..<str.count {
-        let pattern = makePattern(str: Array(str[i...]))
-        result = max(result, pattern.max()!)
+    var str = [Character]()
+    while true {
+        str = Array(readLine()!)
+        if str == ["."] { break }
+        let pattern = findPattern(str: str)
+        print(pattern)
+        let result = str.count - pattern.last!
+        if str.count % result != 0 {
+            print(1)
+        } else {
+            print(str.count / result)
+        }
     }
-    print(result)
 }
 
 solve()
