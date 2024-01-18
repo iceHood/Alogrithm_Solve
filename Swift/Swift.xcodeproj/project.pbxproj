@@ -180,6 +180,7 @@
 		CE732EC82B0C6A8900F1D985 /* 1814. Count Nice Pairs in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1814. Count Nice Pairs in an Array.swift"; sourceTree = "<group>"; };
 		CE73444A2B56BD5500C74239 /* 디스크 컨트롤러.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "디스크 컨트롤러.swift"; sourceTree = "<group>"; };
 		CE73444C2B5805CC00C74239 /* 혼자 놀기의 달인.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "혼자 놀기의 달인.swift"; sourceTree = "<group>"; };
+		CE73444D2B5947A500C74239 /* 과일 장수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "과일 장수.swift"; sourceTree = "<group>"; };
 		CE7395F629CAF07500113D67 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		CE74302429D572AC0073F8EB /* 91. Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91. Decode Ways.swift"; sourceTree = "<group>"; };
 		CE74B5B72AFB4F4F007AD4EB /* 2849. Determine if a Cell Is Reachable at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2849. Determine if a Cell Is Reachable at a Given Time.swift"; sourceTree = "<group>"; };
@@ -564,6 +565,7 @@
 		CE7344492B56BD1800C74239 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				CE73444D2B5947A500C74239 /* 과일 장수.swift */,
 				CE73444A2B56BD5500C74239 /* 디스크 컨트롤러.swift */,
 				CE73444C2B5805CC00C74239 /* 혼자 놀기의 달인.swift */,
 			);
