@@ -23,6 +23,7 @@
 		CE0A12AA2B3D52C200A92258 /* 1786.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1786.cpp; sourceTree = "<group>"; };
 		CE3D736A2ACD4829007EAC5A /* 14940.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14940.cpp; sourceTree = "<group>"; };
 		CE5AB93429B4C27000831C6C /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE7344552B5EA81C00C74239 /* 정수 삼각형.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "정수 삼각형.cpp"; sourceTree = "<group>"; };
 		CE9CAD712AED18C900630AD4 /* 15663.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15663.cpp; sourceTree = "<group>"; };
 		CEA88CE12B3AF26700BE64BB /* 19585.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 19585.cpp; sourceTree = "<group>"; };
 		CEC6AB1A29E28D9100E7C5CB /* 1987.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1987.cpp; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 		CE5AB92B29B4C27000831C6C = {
 			isa = PBXGroup;
 			children = (
+				CE7344542B5EA7FD00C74239 /* Programmers */,
 				CEDDF3E129B4CA1C00B44EFE /* 23_Wanted */,
 				CEDDF35629B4CA1C00B44EFE /* Baekjoon */,
 				CEDDF3D729B4CA1C00B44EFE /* LeetCode */,
@@ -198,6 +200,14 @@
 				CE5AB93429B4C27000831C6C /* Baekjoon */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		CE7344542B5EA7FD00C74239 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				CE7344552B5EA81C00C74239 /* 정수 삼각형.cpp */,
+			);
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 		CEDDF35629B4CA1C00B44EFE /* Baekjoon */ = {
